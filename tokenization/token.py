@@ -483,7 +483,7 @@ def classification_data_set(link):
     lemma_dict_validation = get_data_from_lemma_statistics_json(validation=True, grouping=False)
     lemma_dict_grouping = get_data_from_lemma_statistics_json(validation=False, grouping=True)
 
-    with open(ROOT_DIR + '/Data/test.csv', 'w', newline='') as csvfile:
+    with open(ROOT_DIR + '/Data/classification.csv', 'w', newline='') as csvfile:
         fieldnames = ['', 'gen_text', 'Good/Agood/Bad']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
