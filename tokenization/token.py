@@ -8,6 +8,7 @@ import requests
 from io import BytesIO
 import pickle
 import numpy as np
+from definitions import ROOT_DIR
 
 
 def load(text):
@@ -33,7 +34,7 @@ def get_data_from_lemma_statistics_json(*, validation=False, grouping=False):
     # Load statistics from task validation json
     if validation:
         try:
-            with open("../Statistics/group_lemma_dict_validation_filtered.json", "r") as group_lemma_dict_validation:
+            with open(ROOT_DIR + "/Statistics/group_lemma_dict_validation_filtered.json", "r") as group_lemma_dict_validation:
                 group_lemma_dict_validation = json.load(group_lemma_dict_validation)
         except FileNotFoundError:
             raise 'file "group_lemma_dict_validation.json" not found'
@@ -43,7 +44,7 @@ def get_data_from_lemma_statistics_json(*, validation=False, grouping=False):
     # Load statistics from task grouping json
     if grouping:
         try:
-            with open("../Statistics/groups_lemma_dict_filtered.json", "r") as groups_lemma_dict:
+            with open(ROOT_DIR + "/Statistics/groups_lemma_dict_filtered.json", "r") as groups_lemma_dict:
                 groups_lemma_dict = json.load(groups_lemma_dict)
         except FileNotFoundError:
             raise 'file "group_lemma_dict.json" not found'
@@ -472,17 +473,17 @@ def classification_data_set(link):
     data = handing_input_dataset_from_google_docs(link)
 
     """ Load training models """
-    validate_model_file = '../Models/gbrt_validate_model.sav'
+    validate_model_file = ROOT_DIR + '/training_models/gbrt_validate_model.sav'
     validate_model = pickle.load(open(validate_model_file, 'rb'))
 
-    grouping_model_file = '../Models/gbrt_grouping_model.sav'
+    grouping_model_file = ROOT_DIR + '/training_models/gbrt_grouping_model.sav'
     grouping_model = pickle.load(open(grouping_model_file, 'rb'))
 
     """ Lemma statistics calculation """
     lemma_dict_validation = get_data_from_lemma_statistics_json(validation=True, grouping=False)
     lemma_dict_grouping = get_data_from_lemma_statistics_json(validation=False, grouping=True)
 
-    with open('../Data/test.csv', 'w', newline='') as csvfile:
+    with open(ROOT_DIR + '/Data/test.csv', 'w', newline='') as csvfile:
         fieldnames = ['', 'gen_text', 'Good/Agood/Bad']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -564,7 +565,6 @@ def classification_data_set(link):
                     load_data_dict['question_in_end'],  # Calculate exist question in end of sentences
                     load_data_dict['question_not_end'],  # Calculate exist question not in end
                     group_calculate_grouping,  # Calculate selected group from lemma statistics
-                    # in_bad_list,  # bad list entry calculation
                 ]
 
                 target_validate = np.asarray(map_token_list_validation)
@@ -579,15 +579,3 @@ def classification_data_set(link):
 
             writer.writerow({'': task_id, 'gen_text': load_question, 'Good/Agood/Bad': target_validate})
             print(f"Обработано {string+1} из { data['gen_text'].count()} задач")
-
-
-""" 
-test all work summary script
-"""
-# classification_data_set('https://docs.google.com/spreadsheets/d/1c-7J8yt2GosdIZt9LTvItGypDoVieZfHbKghZWGLKao/edit?usp=sharing')
-
-""" 
-test convert google docs url
-"""
-# data = handing_input_dataset_from_google_docs('https://docs.google.com/spreadsheets/d/1c-7J8yt2GosdIZt9LTvItGypDoVieZfHbKghZWGLKao/edit?usp=sharing')
-# print(data.shape)
