@@ -14,3 +14,12 @@
     - measurement
     - algebra
     - data_and_probability
+
+### Установка зависимостей и запуск проекта
+    Для работы проекта необходимо установить следующие зависимости:
+    pip install spacy
+    pip install pandas
+    pip install jupyter
+    pip install anaconda
+    pip install sklearn
+    spacy download en_core_web_sm
