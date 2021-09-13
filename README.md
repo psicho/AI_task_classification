@@ -2,18 +2,31 @@
 
 ## Продукт предназначен для классификации задач на Good/Agood/Bad, а также определения группы задачи.
 
-### 1. Валидация задач на три группы
+### 1. Валидация задач на три группы (столбец "Good/Agood/Bad")
     - good (хорошие)
     - bad (пложие) 
     - agood (скорее хорошие)
 
 
-### 2. Определение группы задачи
-    - number_properties
-    - geometry
-    - measurement
-    - algebra
-    - data_and_probability
+### 2. Определение группы задачи (столбец "Group")
+    - Multiplication and division
+    - Addition and subtraction
+    - Fractions
+    - Mixed operations
+    - Measurements
+    - Figures
+    - Number
+    - Modelling
+    - Geometry
+    - Time
+    - Comparison
+    - Estimation
+    - Logic
+    - Series and pattern
+    - Graph
+    - Probability
+    - Money
+    - Other
 
 ### Установка зависимостей и запуск проекта
     Для работы проекта необходимо установить следующие зависимости:
@@ -23,6 +36,11 @@
     pip install anaconda
     pip install sklearn
     spacy download en_core_web_sm
+
+    Загрузить файл обученной модели и добавить его в раздел "training_models" проекта 
+    https://drive.google.com/drive/folders/1bh_TLIvu9ot-97Bg--tcWemx4hixaV8w
+    (размер файла модели более 400 Мб и github не поддерживает загрузку файлов более 100 Мб)
+
     
 ## Быстрый старт
 1. Запустите Jupyter Notebook
