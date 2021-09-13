@@ -44,7 +44,7 @@ def get_data_from_lemma_statistics_json(*, validation=False, grouping=False):
     # Load statistics from task grouping json
     if grouping:
         try:
-            with open(ROOT_DIR + "/Statistics/groups_lemma_dict_filtered.json", "r") as groups_lemma_dict:
+            with open(ROOT_DIR + "/Statistics/groups_new_lemma_dict.json", "r") as groups_lemma_dict:
                 groups_lemma_dict = json.load(groups_lemma_dict)
         except FileNotFoundError:
             raise 'file "group_lemma_dict.json" not found'
@@ -301,6 +301,119 @@ def calculate_lemma_statistic_grouping_parameter_percent(tokenized, lemma_dict, 
         return score_dict[max(statistics_dict_result.items(), key=operator.itemgetter(1))[0]]
 
 
+def calculate_lemma_statistic_new_grouping_parameter_percent(tokenized, lemma_dict, percent=100):
+    statistics_dict = {
+        "Multiplication and division": 0,
+        "Addition and subtraction": 0,
+        "Fractions": 0,
+        "Mixed operations": 0,
+        "Measurements": 0,
+        "Figures": 0,
+        "Number": 0,
+        "Modelling": 0,
+        "Geometry": 0,
+        "Time": 0,
+        "Comparison": 0,
+        "Estimation": 0,
+        "Logic": 0,
+        "Series and pattern": 0,
+        "Graph": 0,
+        "Probability": 0,
+        "Money": 0,
+        "Other": 0,
+    }
+
+    groups = {
+        "Multiplication and division": 0,
+        "Addition and subtraction": 1,
+        "Fractions": 2,
+        "Mixed operations": 3,
+        "Measurements": 4,
+        "Figures": 5,
+        "Number": 6,
+        "Modelling": 7,
+        "Geometry": 8,
+        "Time": 9,
+        "Comparison": 10,
+        "Estimation": 11,
+        "Logic": 12,
+        "Series and pattern": 13,
+        "Graph": 14,
+        "Probability": 15,
+        "Money": 16,
+        "Other": 17,
+        }
+
+    # Сохраняем в массив выбранный вариант отношения к группе по каждому токену
+    score_dict = {
+        "Multiplication and division": 1,
+        "Addition and subtraction": 2,
+        "Fractions": 3,
+        "Mixed operations": 4,
+        "Measurements": 5,
+        "Figures": 6,
+        "Number": 7,
+        "Modelling": 8,
+        "Geometry": 9,
+        "Time": 10,
+        "Comparison": 11,
+        "Estimation": 12,
+        "Logic": 13,
+        "Series and pattern": 14,
+        "Graph": 15,
+        "Probability": 16,
+        "Money": 17,
+        "Other": 18,
+        'none': 0
+    }
+
+    token_task_statistics_dict = {}
+
+    def add_lemma_statistics(token_task_statistics_dict1, lemma, group1, lemma_dict1):
+        # lemma = str(lemma)
+        if token_task_statistics_dict1.get(lemma) is not None:
+            token_task_statistics_dict1[lemma][group1] \
+                = lemma_dict1[group1].get(lemma)
+        else:
+            token_task_statistics_dict1[lemma] = statistics_dict.copy()
+            token_task_statistics_dict1[lemma][group1] = lemma_dict1[group1].get(lemma)
+
+    for token_index in range(len(tokenized)):
+        group_rate = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+        for group in list(groups.keys())[:-1]:
+            if lemma_dict[group].get(tokenized[token_index]['lemma_'].lower()) is not None:
+                group_rate[groups[group]] = lemma_dict[group].get(tokenized[token_index]['lemma_'].lower())
+                add_lemma_statistics(token_task_statistics_dict,
+                                     tokenized[token_index]['lemma_'].lower(),
+                                     group,
+                                     lemma_dict)
+            else:
+                group_rate[17] += 1
+
+    round_num = int(percent / 100 * len(tokenized))
+    count_lemmas_percent = round_num if round_num > 0 else 1
+
+    result_list = []
+    for lemma_stat in token_task_statistics_dict:
+        # print(max(token_task_statistics_dict[lemma_stat].items(), key=operator.itemgetter(1))[1])
+        lemma_list = [max(token_task_statistics_dict[lemma_stat].items(), key=operator.itemgetter(1))[1],
+                      max(token_task_statistics_dict[lemma_stat].items(), key=operator.itemgetter(1))[0],
+                      lemma_stat]
+        result_list.append(lemma_list)
+
+    sorted_result_list = sorted(result_list, reverse=True)
+    if len(sorted_result_list) == 0:
+        return score_dict['none']
+    if count_lemmas_percent == 1:
+        return score_dict[sorted_result_list[0][1]]
+    else:
+        statistics_dict_result = statistics_dict.copy()
+        for i in range(len(sorted_result_list[:count_lemmas_percent])):
+            statistics_dict_result[sorted_result_list[i][1]] += sorted_result_list[i][0]
+        return score_dict[max(statistics_dict_result.items(), key=operator.itemgetter(1))[0]]
+
+
 def text_in_bad_list(document):
 
     bad_list = ['[.\s]*([-=#;,.\\/|]+\$)[\.\s]*', '[.\s]*(^)[\.\s]*', '[.\s]*([\^▢■△▞░◡□�▣◈△􏰀|]+)[\.\s]*',
@@ -467,7 +580,27 @@ def handing_input_dataset_from_google_docs(link):
 
 def classification_data_set(link):
 
-    grouping_map = {1: 'number_properties', 2: 'geometry', 3: 'measurement', 4: 'algebra', 5: 'data_and_probability'}
+    # grouping_map = {1: 'number_properties', 2: 'geometry', 3: 'measurement', 4: 'algebra', 5: 'data_and_probability'}
+    grouping_map = {
+        1: "Multiplication and division",
+        2: "Addition and subtraction",
+        3: "Fractions",
+        4: "Mixed operations",
+        5: "Measurements",
+        6: "Figures",
+        7: "Number",
+        8: "Modelling",
+        9: "Geometry",
+        10: "Time",
+        11: "Comparison",
+        12: "Estimation",
+        13: "Logic",
+        14: "Series and pattern",
+        15: "Graph",
+        16: "Probability",
+        17: "Money",
+        18: "Other",
+    }
     validation_map = {0: 'bad', 1: 'good', 2: 'agood'}
 
     data = handing_input_dataset_from_google_docs(link)
@@ -476,7 +609,7 @@ def classification_data_set(link):
     validate_model_file = ROOT_DIR + '/training_models/gbrt_validate_model.sav'
     validate_model = pickle.load(open(validate_model_file, 'rb'))
 
-    grouping_model_file = ROOT_DIR + '/training_models/gbrt_grouping_model.sav'
+    grouping_model_file = ROOT_DIR + '/training_models/gbrt_17_grouping_model.sav'
     grouping_model = pickle.load(open(grouping_model_file, 'rb'))
 
     """ Lemma statistics calculation """
@@ -484,7 +617,7 @@ def classification_data_set(link):
     lemma_dict_grouping = get_data_from_lemma_statistics_json(validation=False, grouping=True)
 
     with open(ROOT_DIR + '/Data/classification.csv', 'w', newline='') as csvfile:
-        fieldnames = ['', 'gen_text', 'Good/Agood/Bad']
+        fieldnames = ['', 'gen_text', 'Good/Agood/Bad', 'Group']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -505,7 +638,8 @@ def classification_data_set(link):
                     lemma_dict_validation,
                     percent=30)
                 # group_calculate = calculate_lemma_statistic_validation_parameter(tokenized, lemma_dict)
-                group_calculate_grouping = calculate_lemma_statistic_grouping_parameter_percent(
+
+                group_calculate_grouping = calculate_lemma_statistic_new_grouping_parameter_percent(
                     tokenized,
                     lemma_dict_grouping,
                     percent=30)
@@ -577,5 +711,7 @@ def classification_data_set(link):
                 print('Errore >>> SIGSEGV')
                 continue
 
-            writer.writerow({'': task_id, 'gen_text': load_question, 'Good/Agood/Bad': target_validate})
+            writer.writerow({'': task_id, 'gen_text': load_question,
+                             'Good/Agood/Bad': target_validate,
+                             'Group': target_grouping})
             print(f"Обработано {string+1} из { data['gen_text'].count()} задач")
