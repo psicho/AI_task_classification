@@ -609,7 +609,7 @@ def classification_data_set(link):
     validate_model_file = ROOT_DIR + '/training_models/gbrt_validate_model.sav'
     validate_model = pickle.load(open(validate_model_file, 'rb'))
 
-    grouping_model_file = ROOT_DIR + '/training_models/gbrt_17_grouping_model.sav'
+    grouping_model_file = ROOT_DIR + '/training_models/gbrt_grouping_model.sav'
     grouping_model = pickle.load(open(grouping_model_file, 'rb'))
 
     """ Lemma statistics calculation """
