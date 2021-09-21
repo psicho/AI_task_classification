@@ -1,549 +1,549 @@
 ,gen_text,Good/Agood/Bad,Group
 4,"If you have a rectangle with a length of 12 inches and a width of 8 inches, what is the area of the rectangle?",good,Addition and subtraction
-5,"If you have two circles with diameters that are 6 inches apart from each other, what is the distance between their centers?",good,Addition and subtraction
-6,What is the perimeter of a triangle with sides that are 10 inches long?,bad,Multiplication and division
-9,"The number of students in a class is 20. If the average height of the students is 5 feet, what is the median height?",good,Measurements
-13,The sum of three consecutive even integers is 54. What are the integers?,bad,Addition and subtraction
-15,A triangle has an area of 40 square inches and a base that measures 8 inches long. What are its height and perimeter?,good,Addition and subtraction
+5,"If you have two circles with diameters that are 6 inches apart from each other, what is the distance between their centers?",good,Multiplication and division
+6,What is the perimeter of a triangle with sides that are 10 inches long?,bad,Addition and subtraction
+9,"The number of students in a class is 20. If the average height of the students is 5 feet, what is the median height?",good,Multiplication and division
+13,The sum of three consecutive even integers is 54. What are the integers?,bad,Multiplication and division
+15,A triangle has an area of 40 square inches and a base that measures 8 inches long. What are its height and perimeter?,good,Multiplication and division
 16,"A rectangle has a length that measures 6 inches longer than its width, which measures 3 inches long. What are its perimeter and area?",good,Multiplication and division
 17,"The circumference of a circle with a radius of 2 inches is 16 inches long, how many square inches does it have?",bad,Multiplication and division
-27,The sum of two numbers is 12. The first number is 3 more than the second number. What are the two numbers?,bad,Modelling
-30,A triangle has an area of 8 square centimeters. What is the perimeter of the triangle?,bad,Multiplication and division
-31,"The average (arithmetic mean) of 3, 6, and 9 is",bad,Addition and subtraction
-32,"The median (middle value) of 3, 6, and 9 is",bad,Addition and subtraction
-33,"The mode (most frequent value) of 3, 6, and 9 is",bad,Mixed operations
-34,"If you have $10 in your pocket and spend $1 on candy, what do you have left in your pocket?",bad,Addition and subtraction
-37,What is the area of a circle with a radius of 4 inches?,bad,Multiplication and division
-44,The sum of two numbers is 36. The difference between the two numbers is 4. What are the two numbers?,bad,Number
-47,"If you have 12 cookies, how many cookies do you have if you eat 3 cookies?",bad,Addition and subtraction
-49,"If you have $10, how much money do you have if you spend $2?",bad,Addition and subtraction
-50,"If you have $25, how much money do they have if they spend $6?",bad,Addition and subtraction
+27,The sum of two numbers is 12. The first number is 3 more than the second number. What are the two numbers?,bad,Multiplication and division
+30,A triangle has an area of 8 square centimeters. What is the perimeter of the triangle?,bad,Addition and subtraction
+31,"The average (arithmetic mean) of 3, 6, and 9 is",bad,Multiplication and division
+32,"The median (middle value) of 3, 6, and 9 is",bad,Multiplication and division
+33,"The mode (most frequent value) of 3, 6, and 9 is",bad,Multiplication and division
+34,"If you have $10 in your pocket and spend $1 on candy, what do you have left in your pocket?",bad,Multiplication and division
+37,What is the area of a circle with a radius of 4 inches?,bad,Addition and subtraction
+44,The sum of two numbers is 36. The difference between the two numbers is 4. What are the two numbers?,bad,Multiplication and division
+47,"If you have 12 cookies, how many cookies do you have if you eat 3 cookies?",bad,Multiplication and division
+49,"If you have $10, how much money do you have if you spend $2?",bad,Multiplication and division
+50,"If you have $25, how much money do they have if they spend $6?",bad,Multiplication and division
 51,"If your car gets 20 miles per gallon and it costs $2 to fill up the tank with gas, how many miles can your",bad,Multiplication and division
-57,The product of three numbers is 54. What are the three numbers?,bad,Addition and subtraction
-58,The quotient of three numbers is 12. What are the three numbers?,bad,Addition and subtraction
-59,The difference between three numbers is 6. What are the three numbers?,bad,Addition and subtraction
+57,The product of three numbers is 54. What are the three numbers?,bad,Mixed operations
+58,The quotient of three numbers is 12. What are the three numbers?,bad,Mixed operations
+59,The difference between three numbers is 6. What are the three numbers?,bad,Mixed operations
 60,"A number has a remainder of 3 when divided by 5, what number could it be?",good,Multiplication and division
-64,The quotient of two numbers is 24. What are the numbers?,bad,Addition and subtraction
-65,The square root of a number is 4. What is the number?,bad,Addition and subtraction
-75,If you have $16 and spend $,bad,Addition and subtraction
-76,"If you have $5, and spend $1, what percent of your money did you spend?",good,Addition and subtraction
-82,"If you have $5, and spend $3, what percent",bad,Addition and subtraction
+64,The quotient of two numbers is 24. What are the numbers?,bad,Multiplication and division
+65,The square root of a number is 4. What is the number?,bad,Multiplication and division
+75,If you have $16 and spend $,bad,Multiplication and division
+76,"If you have $5, and spend $1, what percent of your money did you spend?",good,Multiplication and division
+82,"If you have $5, and spend $3, what percent",bad,Multiplication and division
 84,A carpenter earns $24.00 per hour. How much does he earn in a week?,bad,Multiplication and division
 90,"If a carpenter works 40 hours per week, how many weeks will it take him to earn $192,000?",bad,Multiplication and division
-91,If a carpenter works 40 hours per week for 10 years and earns an average,bad,Fractions
-95,"If you have $10.00 in quarters, nickels, dimes, and pennies, how much money do you have?",bad,Mixed operations
-103,A person has $5 in his pocket and spends $1 on a candy bar. How much money does he have left?,good,Addition and subtraction
+91,If a carpenter works 40 hours per week for 10 years and earns an average,bad,Multiplication and division
+95,"If you have $10.00 in quarters, nickels, dimes, and pennies, how much money do you have?",bad,Multiplication and division
+103,A person has $5 in his pocket and spends $1 on a candy bar. How much money does he have left?,good,Multiplication and division
 113,A school has 40 students in it. What is the probability that two students picked the same number for their favorite number?,good,Multiplication and division
-114,A rectangle has an area of 64 square feet. What is the length of each side?,bad,Modelling
-115,If you buy 4 apples for $2.,bad,Addition and subtraction
+114,A rectangle has an area of 64 square feet. What is the length of each side?,bad,Addition and subtraction
+115,If you buy 4 apples for $2.,bad,Multiplication and division
 118,"The football boosters club had 80 T-shirts made to sell at football games. By mid-October, they had only 12 left. What is the average number of shirts sold per week?",good,Multiplication and division
-121,The football boosters club had 80 T-shirts,bad,Comparison
+121,The football boosters club had 80 T-shirts,bad,Multiplication and division
 123,"If you have a jar of jelly beans that weighs 3 pounds, how many jelly beans are in the jar if there are 2 pounds of jelly beans?",good,Multiplication and division
 128,If you have a jar of candy with 100 pieces and eat 10,bad,Multiplication and division
-129,"There are 4 apples and 3 oranges in a bag. If you take away 2 apples, how many will be left?",good,Addition and subtraction
-130,"If you have $1.25, what is the cost of a candy bar?",bad,Multiplication and division
-132,What is the difference between 18 and 12?,good,Addition and subtraction
-140,"If you have 4 quarters and 2 dimes, how many coins do you have?",good,Addition and subtraction
-144,What is the area of a square with side length 10 inches?,agood,Multiplication and division
-157,The sum of two numbers is 12. The larger number is three times the smaller number. What are the numbers?,bad,Modelling
-158,"A man has $1,000 in his wallet and spends $150 on a new suit. How much money does he have left in his wallet?",good,Addition and subtraction
-159,"If you buy a pack of gum for $2, how much change will you get back if you only have a $5 bill?",bad,Addition and subtraction
-164,"The average of 5, 8, and 11 is",good,Addition and subtraction
+129,"There are 4 apples and 3 oranges in a bag. If you take away 2 apples, how many will be left?",good,Multiplication and division
+130,"If you have $1.25, what is the cost of a candy bar?",bad,Addition and subtraction
+132,What is the difference between 18 and 12?,good,Multiplication and division
+140,"If you have 4 quarters and 2 dimes, how many coins do you have?",good,Multiplication and division
+144,What is the area of a square with side length 10 inches?,agood,Addition and subtraction
+157,The sum of two numbers is 12. The larger number is three times the smaller number. What are the numbers?,bad,Mixed operations
+158,"A man has $1,000 in his wallet and spends $150 on a new suit. How much money does he have left in his wallet?",good,Multiplication and division
+159,"If you buy a pack of gum for $2, how much change will you get back if you only have a $5 bill?",bad,Multiplication and division
+164,"The average of 5, 8, and 11 is",good,Multiplication and division
 166,The difference between 6 and 7 is,bad,Multiplication and division
-170,"If x = 2 and y = 3, what is the value of z?",good,Addition and subtraction
-180,"What number should be subtracted from the sum of 3, 4, and 5 to get the average?",good,Modelling
+170,"If x = 2 and y = 3, what is the value of z?",good,Mixed operations
+180,"What number should be subtracted from the sum of 3, 4, and 5 to get the average?",good,Multiplication and division
 181,If there are 75 students in the play how many are boys?,agood,Multiplication and division
 187,What is the quotient of 8Ã·4?,agood,Multiplication and division
-188,How can you tell if a number is even or odd?,bad,Figures
-194,"If a train leaves Chicago at 8:00 am and another train leaves Los Angeles at 12:00 pm, what time will they meet?",good,Fractions
-196,The sum of two numbers is 10. One number is twice as large as the other number. What are the numbers?,bad,Modelling
-198,"A man has $1,000 in his savings account and $2,000 in his checking account. How much money does he have altogether?",good,Addition and subtraction
-199,"If you have $1,000 in your savings account and $2,000 in your checking account, how much money do you have altogether?",bad,Addition and subtraction
-200,"If you have a total of $4.50, and spend $2.00, what is the new total?",good,Addition and subtraction
+188,How can you tell if a number is even or odd?,bad,Multiplication and division
+194,"If a train leaves Chicago at 8:00 am and another train leaves Los Angeles at 12:00 pm, what time will they meet?",good,Multiplication and division
+196,The sum of two numbers is 10. One number is twice as large as the other number. What are the numbers?,bad,Multiplication and division
+198,"A man has $1,000 in his savings account and $2,000 in his checking account. How much money does he have altogether?",good,Multiplication and division
+199,"If you have $1,000 in your savings account and $2,000 in your checking account, how much money do you have altogether?",bad,Multiplication and division
+200,"If you have a total of $4.50, and spend $2.00, what is the new total?",good,Multiplication and division
 204,"If a math textbook cost $54 last year, what was the cost in 1985?",bad,Multiplication and division
 205,"A math textbook costs $54 this year. If the price of a math textbook increases by 10% each year, how much will it cost in 2022?",good,Multiplication and division
-208,The price of a math textbook increased by 10% last year. What is the new price if the increase is compounded annually?,bad,Measurements
+208,The price of a math textbook increased by 10% last year. What is the new price if the increase is compounded annually?,bad,Addition and subtraction
 209,"If the price of a math textbook increases by 10% each year for 5 years, what will be the new price after 5 years?",good,Multiplication and division
 210,If the price of a math textbook increases by 10,bad,Multiplication and division
-217,What are the three types of angles?,agood,Geometry
-218,What are the two types of triangles?,agood,Geometry
-219,"If you have $5.00, and you buy a candy bar for $1.00, how much money do you have left?",good,Addition and subtraction
-227,"If you have $10 and spend $5 on a shirt, how much money do you have left?",bad,Addition and subtraction
-228,"If you have 5 apples and your friend has 3 apples, how many apples do you each have?",bad,Addition and subtraction
+217,What are the three types of angles?,agood,Multiplication and division
+218,What are the two types of triangles?,agood,Multiplication and division
+219,"If you have $5.00, and you buy a candy bar for $1.00, how much money do you have left?",good,Multiplication and division
+227,"If you have $10 and spend $5 on a shirt, how much money do you have left?",bad,Multiplication and division
+228,"If you have 5 apples and your friend has 3 apples, how many apples do you each have?",bad,Multiplication and division
 229,Bill had $6 in savings at the beginning.,bad,Multiplication and division
 230,It will take 10 hours to travel 240 miles at 40 miles per hour.,bad,Multiplication and division
 231,You have $5 left after spending $5 on a shirt.,bad,Multiplication and division
 232,You each have 2 apples after giving away 1 apple to your friend.,bad,Multiplication and division
 234,"If it takes 3 hours to mow a lawn, how long will it take to mow two lawns?",bad,Multiplication and division
 237,Bill had $3 left in savings after lunch.,bad,Multiplication and division
-238,The car traveled 40 miles.,bad,Addition and subtraction
+238,The car traveled 40 miles.,bad,Multiplication and division
 239,It would take 6 hours to mow two lawns.,bad,Multiplication and division
-240,"You would have $18 in coins ($6 in quarters, $3 in nickels, and $3 in dimes).",bad,Addition and subtraction
+240,"You would have $18 in coins ($6 in quarters, $3 in nickels, and $3 in dimes).",bad,Multiplication and division
 241,The price of a gallon of milk rose from $2.00 to $2.50. What is the percent of increase?,bad,Multiplication and division
-242,The price of a gallon of gas rose from $1.10 to $1.43 per gallon. What is the percent of increase?,bad,Other
+242,The price of a gallon of gas rose from $1.10 to $1.43 per gallon. What is the percent of increase?,bad,Multiplication and division
 243,"If you have a budget of $100, and spend $30 on groceries, what percentage of your budget did you spend on groceries?",good,Multiplication and division
-246,"If you have a budget of $100, and",bad,Number
+246,"If you have a budget of $100, and",bad,Multiplication and division
 247,The cost of a box of cereal is $3.00. What is the cost per ounce?,bad,Multiplication and division
-248,The average number of hours that a person sleeps in a night is 8 hours. How many hours does the average person sleep in a week?,bad,Measurements
-253,"A group of students is asked to find the average of their ages. The ages are: 12, 13, 14, 15, 16",bad,Number
-255,"A box contains 10 pencils and 8 pens. If 3 more pens are added to the box, what percentage of the items in the box will be pens?",good,Fractions
-257,"A jar contains 5 red marbles and 3 blue marbles. If 2 more blue marbles are added to the jar, what percentage of the marbles will be blue?",good,Probability
-259,A group of students are studying for a test. They have studied for 3 hours so far. How many more hours will they need to study in order to be prepared for the test?,good,Fractions
-260,There are 10 apples on the table and 5 of them are green. What is the probability that the next apple picked up from the table will be green?,good,Mixed operations
-261,The sum of two numbers is 12. The larger number is 4 more than twice the smaller number. What are the numbers?,bad,Modelling
-264,"If you have $1,000 in your bank account, what is your balance if you deposit $500 and withdraw $500 from your account?",bad,Addition and subtraction
-269,The cost of a shirt is $10.00 and the cost of a pair of pants is $20.00. What is the total cost of both items?,bad,Addition and subtraction
+248,The average number of hours that a person sleeps in a night is 8 hours. How many hours does the average person sleep in a week?,bad,Multiplication and division
+253,"A group of students is asked to find the average of their ages. The ages are: 12, 13, 14, 15, 16",bad,Multiplication and division
+255,"A box contains 10 pencils and 8 pens. If 3 more pens are added to the box, what percentage of the items in the box will be pens?",good,Multiplication and division
+257,"A jar contains 5 red marbles and 3 blue marbles. If 2 more blue marbles are added to the jar, what percentage of the marbles will be blue?",good,Multiplication and division
+259,A group of students are studying for a test. They have studied for 3 hours so far. How many more hours will they need to study in order to be prepared for the test?,good,Multiplication and division
+260,There are 10 apples on the table and 5 of them are green. What is the probability that the next apple picked up from the table will be green?,good,Multiplication and division
+261,The sum of two numbers is 12. The larger number is 4 more than twice the smaller number. What are the numbers?,bad,Mixed operations
+264,"If you have $1,000 in your bank account, what is your balance if you deposit $500 and withdraw $500 from your account?",bad,Multiplication and division
+269,The cost of a shirt is $10.00 and the cost of a pair of pants is $20.00. What is the total cost of both items?,bad,Multiplication and division
 270,The sum of two numbers is 12 and their difference is 4. What are the numbers?,bad,Multiplication and division
 273,"If you have $1,000 in your savings account, how much interest will you earn in one year if your bank pays 3% interest per year?",bad,Multiplication and division
-274,You have 5 pounds of apples that,bad,Addition and subtraction
-275,"If the cost of a shirt is $8.00, what is the cost of a shirt and a pair of pants?",bad,Modelling
+274,You have 5 pounds of apples that,bad,Multiplication and division
+275,"If the cost of a shirt is $8.00, what is the cost of a shirt and a pair of pants?",bad,Addition and subtraction
 289,A group of 12 people are going to a movie. What is the probability that there will be at least one person who likes popcorn?,bad,Multiplication and division
-290,"A box contains 3 red and 2 green marbles. If two marbles are drawn without replacement, what is the probability that both will be red?",good,Fractions
+290,"A box contains 3 red and 2 green marbles. If two marbles are drawn without replacement, what is the probability that both will be red?",good,Multiplication and division
 291,The average number of hours of sleep for a 4th grader is 8 hours. What is the probability that a 4th grader will sleep for more than 9 hours?,bad,Multiplication and division
-292,"A jar contains 6 blue and 5 red balls. If two balls are drawn without replacement, what is the probability that both will be blue?",good,Fractions
+292,"A jar contains 6 blue and 5 red balls. If two balls are drawn without replacement, what is the probability that both will be blue?",good,Multiplication and division
 293,A survey of 700 people found that 10% said they liked chocolate ice cream best. How many people said they liked chocolate ice cream best?,good,Multiplication and division
-294,"In a recent survey, 15% of people said they liked red as their favorite color. What percentage of people said they liked",bad,Fractions
-295,"If the cost of a pizza is $10.00, what is the cost of a slice?",bad,Modelling
-299,"If you are given a number line with numbers from -5 to 5, what number would be in the middle?",bad,Time
-303,"If there are two trains that leave at different times from different stations, which train will get to its destination first if they both travel at an average speed of",bad,Modelling
-304,"If the total cost of a purchase is $12.00, and you pay with a $20.00 bill, what is the change?",good,Addition and subtraction
-305,"If there are 12 pencils in a box, how many pencils will be left if 3 are taken out?",bad,Addition and subtraction
-308,"If there are 10 books on the table and you take away 4, how many books will be left on the table?",good,Addition and subtraction
-309,"If there are 8 chairs in the room and you take away 2, how many chairs will be left in the room?",good,Addition and subtraction
-310,"If there are 9 people in a room and one person leaves, how many people will be left in the room?",good,Addition and subtraction
+294,"In a recent survey, 15% of people said they liked red as their favorite color. What percentage of people said they liked",bad,Multiplication and division
+295,"If the cost of a pizza is $10.00, what is the cost of a slice?",bad,Addition and subtraction
+299,"If you are given a number line with numbers from -5 to 5, what number would be in the middle?",bad,Addition and subtraction
+303,"If there are two trains that leave at different times from different stations, which train will get to its destination first if they both travel at an average speed of",bad,Fractions
+304,"If the total cost of a purchase is $12.00, and you pay with a $20.00 bill, what is the change?",good,Multiplication and division
+305,"If there are 12 pencils in a box, how many pencils will be left if 3 are taken out?",bad,Multiplication and division
+308,"If there are 10 books on the table and you take away 4, how many books will be left on the table?",good,Multiplication and division
+309,"If there are 8 chairs in the room and you take away 2, how many chairs will be left in the room?",good,Multiplication and division
+310,"If there are 9 people in a room and one person leaves, how many people will be left in the room?",good,Multiplication and division
 311,What number comes after 7?,good,Multiplication and division
-313,"If it takes 3 hours to drive from Boston to New York City, how long will it take to drive from Boston to Philadelphia?",bad,Time
+313,"If it takes 3 hours to drive from Boston to New York City, how long will it take to drive from Boston to Philadelphia?",bad,Multiplication and division
 315,A car travels at a constant speed for 8 hours and then stops for 2 hours before continuing on its journey. How many miles has the car traveled in total?,good,Multiplication and division
 316,The perimeter of a square is 24 inches. What is the length of one side?,bad,Multiplication and division
-326,"If there are 10 apples in a basket, how many apples are there in half of the basket?",bad,Multiplication and division
-328,"If you buy two items that cost $3 each, what is your total cost for both items?",bad,Addition and subtraction
-333,A triangle has an area of 16 square inches. What are the lengths of the three sides?,bad,Multiplication and division
-334,A rectangle has an area of 144 square inches. What are the lengths of the two shorter sides?,good,Fractions
+326,"If there are 10 apples in a basket, how many apples are there in half of the basket?",bad,Addition and subtraction
+328,"If you buy two items that cost $3 each, what is your total cost for both items?",bad,Multiplication and division
+333,A triangle has an area of 16 square inches. What are the lengths of the three sides?,bad,Addition and subtraction
+334,A rectangle has an area of 144 square inches. What are the lengths of the two shorter sides?,good,Multiplication and division
 337,"The perimeter of a rectangle is 96 inches long and 48 inches wide, what are its dimensions in feet and inches?",good,Addition and subtraction
-340,"If you have $1.00 and you buy a candy bar for $0.50, what is the change you will get back?",agood,Addition and subtraction
+340,"If you have $1.00 and you buy a candy bar for $0.50, what is the change you will get back?",agood,Multiplication and division
 341,"If you have a jar with 3 red marbles, 4 green marbles, and 5 blue marbles, how many total marbles are there?",good,Multiplication and division
 346,How many times does 6 go into 18?,bad,Multiplication and division
 357,A carpenter earns $30 per hour. How much does he earn in one hour?,bad,Multiplication and division
 358,"If a person has $5 in his pocket, how much money is in his pocket?",bad,Multiplication and division
-359,A person has $5 in her pocket and spends $1 on a candy bar. What is the new amount of money in her pocket?,good,Addition and subtraction
-363,A person has $5 in her pocket and spends $1 on a candy bar.,bad,Addition and subtraction
+359,A person has $5 in her pocket and spends $1 on a candy bar. What is the new amount of money in her pocket?,good,Multiplication and division
+363,A person has $5 in her pocket and spends $1 on a candy bar.,bad,Multiplication and division
 364,The cost of a shirt is $8.00. The cost of the shirt with a 15% discount is,bad,Multiplication and division
 365,"A store has a sale on all items in the store for 20% off the ticketed price. If an item is priced at $10, what is the new price?",bad,Multiplication and division
-370,"The number of jelly beans in a jar is equal to the number of jelly beans in a second jar. If there are 3 more jelly beans in the first jar than the second, how many jelly beans are in each jar?",good,Series and pattern
-372,A car travels at an average speed of 60 miles per hour for 2 hours and then travels at an average speed of 50 miles per hour for 4 hours. What is the total distance traveled by the car?,good,Addition and subtraction
-373,The cost of a shirt was $25 and it was on sale for 30% off. What was the original price of the shirt?,bad,Mixed operations
+370,"The number of jelly beans in a jar is equal to the number of jelly beans in a second jar. If there are 3 more jelly beans in the first jar than the second, how many jelly beans are in each jar?",good,Addition and subtraction
+372,A car travels at an average speed of 60 miles per hour for 2 hours and then travels at an average speed of 50 miles per hour for 4 hours. What is the total distance traveled by the car?,good,Multiplication and division
+373,The cost of a shirt was $25 and it was on sale for 30% off. What was the original price of the shirt?,bad,Multiplication and division
 375,A rectangle has a width that is three times its height. What is its area?,bad,Multiplication and division
-379,A carpenter's work week is 40 hours. How many hours does the carpenter work in a day?,bad,Measurements
-381,"If a person has $1,000 and invests it at 10% interest, how much will they have after 5 years?",bad,Fractions
-383,"If you have $10 and spend $2 on an item, how much money do you have left?",bad,Addition and subtraction
+379,A carpenter's work week is 40 hours. How many hours does the carpenter work in a day?,bad,Multiplication and division
+381,"If a person has $1,000 and invests it at 10% interest, how much will they have after 5 years?",bad,Multiplication and division
+383,"If you have $10 and spend $2 on an item, how much money do you have left?",bad,Multiplication and division
 384,"If I am 5'8"" tall, how tall am I in centimeters?",bad,Multiplication and division
 385,"In a triangle with one right angle, what are the lengths of the other two sides called?",bad,Multiplication and division
-386,A person has $100 and spends $50 on groceries and $30 on gas for their car. How much money do they have left to spend on other things?,bad,Mixed operations
-388,A group of students is making a list of the five largest countries in the world. Which country would be number one?,bad,Fractions
+386,A person has $100 and spends $50 on groceries and $30 on gas for their car. How much money do they have left to spend on other things?,bad,Multiplication and division
+388,A group of students is making a list of the five largest countries in the world. Which country would be number one?,bad,Multiplication and division
 389,A farmer has a total of 100 pounds of apples and oranges. He wants to sell 25 pounds of apples and 25 pounds of oranges. How many pounds of each fruit should he sell to make his goal?,good,Multiplication and division
-391,A person can walk at a speed of 3 miles per hour for 4 hours. How far can they walk in that time?,good,Time
-392,"If a person has $10,000 in their bank account, how much money will they have after they spend $2,000?",bad,Addition and subtraction
-393,The sum of two numbers is 10 and the difference between them is 5. What are the numbers?,bad,Mixed operations
-394,"A person has $1,000 in their bank account and spends $200 on groceries for the week. How much money will",good,Addition and subtraction
-395,A group of people are sitting in a circle. There are 12 chairs. How many people can sit down?,bad,Mixed operations
+391,A person can walk at a speed of 3 miles per hour for 4 hours. How far can they walk in that time?,good,Multiplication and division
+392,"If a person has $10,000 in their bank account, how much money will they have after they spend $2,000?",bad,Multiplication and division
+393,The sum of two numbers is 10 and the difference between them is 5. What are the numbers?,bad,Multiplication and division
+394,"A person has $1,000 in their bank account and spends $200 on groceries for the week. How much money will",good,Multiplication and division
+395,A group of people are sitting in a circle. There are 12 chairs. How many people can sit down?,bad,Multiplication and division
 396,The sum of the digits in the number 987 is,bad,Multiplication and division
-399,"If you have a jar with 3 red marbles, 4 green marbles, and 5 blue marbles, what is the probability that you will pick a green marble if you randomly pick one marble from the jar?",good,Probability
+399,"If you have a jar with 3 red marbles, 4 green marbles, and 5 blue marbles, what is the probability that you will pick a green marble if you randomly pick one marble from the jar?",good,Multiplication and division
 400,What is the sum of all numbers between 1 and 100?,good,Multiplication and division
-405,"If a person has $1,000 in his or her bank account and earns 10% interest per year, how much money will be in the account after three years?",good,Fractions
-413,"If you deposit $500 into your savings account and the interest rate is 2% per year, how much will you have after 2 years?",bad,Fractions
-415,"If a person has $10,000 in their checking account and they make a withdrawal of $2,000 from their checking account, what will be their balance?",good,Addition and subtraction
+405,"If a person has $1,000 in his or her bank account and earns 10% interest per year, how much money will be in the account after three years?",good,Multiplication and division
+413,"If you deposit $500 into your savings account and the interest rate is 2% per year, how much will you have after 2 years?",bad,Multiplication and division
+415,"If a person has $10,000 in their checking account and they make a withdrawal of $2,000 from their checking account, what will be their balance?",good,Multiplication and division
 416,"If a person has $10,000 in",bad,Multiplication and division
-426,"If the sum of two numbers is 16, and one number is 8, what is the other number?",bad,Addition and subtraction
+426,"If the sum of two numbers is 16, and one number is 8, what is the other number?",bad,Multiplication and division
 427,"If you have a jar with 3 apples and 4 oranges, how many pieces of fruit are in the jar?",good,Multiplication and division
 435,"If you have $5.00 in quarters, dimes, nickels and pennies, what is the total value of the coins?",bad,Multiplication and division
-437,"If you have a jar with 3 apples, 2 oranges and 1 pear, how many fruits are there in the jar?",good,Addition and subtraction
+437,"If you have a jar with 3 apples, 2 oranges and 1 pear, how many fruits are there in the jar?",good,Multiplication and division
 438,"If you have 5 pounds of potatoes and want to make mashed potatoes with them, how many cups of water will you need to boil them in?",bad,Multiplication and division
-446,"Which number in this list has a denominator of 2: 5, 10, 15, 20, 25, 30?",bad,Series and pattern
-447,Which number in this list has a denominator of 3,bad,Addition and subtraction
+446,"Which number in this list has a denominator of 2: 5, 10, 15, 20, 25, 30?",bad,Mixed operations
+447,Which number in this list has a denominator of 3,bad,Multiplication and division
 453,How many more than 10 are there in 20?,bad,Multiplication and division
-454,"Which number comes next in this sequence: 1, 2, 3, 4, 5, 6, 7, 8?",bad,Series and pattern
-460,"What number should come next in this sequence: 1, 4, 9, 16?",bad,Mixed operations
-462,What is the square root of 144?,good,Number
+454,"Which number comes next in this sequence: 1, 2, 3, 4, 5, 6, 7, 8?",bad,Mixed operations
+460,"What number should come next in this sequence: 1, 4, 9, 16?",bad,Multiplication and division
+462,What is the square root of 144?,good,Multiplication and division
 472,What is the area of an equilateral triangle with sides that are 4 inches long?,agood,Addition and subtraction
-473,What is the volume of a cube,bad,Measurements
-475,What is the sum of 10 and 20?,good,Addition and subtraction
+473,What is the volume of a cube,bad,Multiplication and division
+475,What is the sum of 10 and 20?,good,Multiplication and division
 476,What is the difference between 100 and 200?,good,Multiplication and division
-496,How many seconds are in an hour?,bad,Measurements
-498,How many hours are in a day?,bad,Measurements
+496,How many seconds are in an hour?,bad,Fractions
+498,How many hours are in a day?,bad,Fractions
 505,"If you have a jar with 3 apples, how many more apples would you need to fill it up to make it full?",bad,Multiplication and division
-506,"If you have a jar with 4 apples,",bad,Number
-513,What is the value of x when x=4x+2?,agood,Geometry
-514,"If you have $10 in your pocket, how much money do you have altogether if you spend $1 at a time?",bad,Addition and subtraction
+506,"If you have a jar with 4 apples,",bad,Multiplication and division
+513,What is the value of x when x=4x+2?,agood,Multiplication and division
+514,"If you have $10 in your pocket, how much money do you have altogether if you spend $1 at a time?",bad,Multiplication and division
 545,"If a person has $100 in his or her wallet, and spends $10 on lunch, how much money will be left in the wallet?",good,Multiplication and division
-551,"If the cost of a gallon of gas is $2.50 and the price of a gallon of milk is $3.00, what is the ratio of the two prices?",bad,Probability
-554,What is the difference between 2/3 and 1/2?,good,Addition and subtraction
+551,"If the cost of a gallon of gas is $2.50 and the price of a gallon of milk is $3.00, what is the ratio of the two prices?",bad,Multiplication and division
+554,What is the difference between 2/3 and 1/2?,good,Multiplication and division
 556,What are two numbers that add up to 12?,bad,Multiplication and division
 559,"If you buy a dozen eggs for $1.00, how much will it cost to buy two dozen eggs for $2.00?",bad,Multiplication and division
-572,"If you have a number and you subtract 3 from it, what do you get?",bad,Addition and subtraction
+572,"If you have a number and you subtract 3 from it, what do you get?",bad,Multiplication and division
 576,A customerâ€™s cable television bill totaled $20 a month. What is the monthly cost for basic cable service if the customer pays in advance for 12 months?,good,Multiplication and division
-580,A customerâ€™s cable television bill totaled $20 a month. If the customer pays,bad,Fractions
+580,A customerâ€™s cable television bill totaled $20 a month. If the customer pays,bad,Multiplication and division
 586,"A customerâ€™s cable television bill totaled $20 a month. What is the cost of basic cable service per 1,000,000 years?",good,Multiplication and division
-587,A customerâ€™s cable television bill totaled $20 a month,bad,Fractions
-591,"If there are 8 pencils in the box and 6 of them are red, what is the probability that if I pick one pencil from the box it will be red?",good,Fractions
-592,"If there are 4 people in a room and 3 of them are wearing hats, what is the probability that if I pick one person from the room they will be wearing a hat?",bad,Fractions
-597,"The cost of a new bike is $150.00. If the bike has a 10% sales tax, what is the total cost of the bike?",bad,Fractions
-601,"If you have $2,000 in your savings account, how much money will you have after you deposit $1,000 into your account?",bad,Addition and subtraction
-602,The perimeter of a rectangle is 24 inches. What are the dimensions of the rectangle?,bad,Multiplication and division
-603,"If you have $10 in your wallet and spend $5 on lunch, how much money will you have left in your wallet?",bad,Addition and subtraction
+587,A customerâ€™s cable television bill totaled $20 a month,bad,Multiplication and division
+591,"If there are 8 pencils in the box and 6 of them are red, what is the probability that if I pick one pencil from the box it will be red?",good,Multiplication and division
+592,"If there are 4 people in a room and 3 of them are wearing hats, what is the probability that if I pick one person from the room they will be wearing a hat?",bad,Multiplication and division
+597,"The cost of a new bike is $150.00. If the bike has a 10% sales tax, what is the total cost of the bike?",bad,Multiplication and division
+601,"If you have $2,000 in your savings account, how much money will you have after you deposit $1,000 into your account?",bad,Multiplication and division
+602,The perimeter of a rectangle is 24 inches. What are the dimensions of the rectangle?,bad,Addition and subtraction
+603,"If you have $10 in your wallet and spend $5 on lunch, how much money will you have left in your wallet?",bad,Multiplication and division
 604,A car travels at an average speed of 60 miles per hour for 2 hours and 30 minutes. How many miles does it travel?,good,Multiplication and division
 610,"A man has three coins in his pocket with values of 1, 5, and 10 cents respectively. What is the value of all three coins together?",bad,Multiplication and division
-611,"If there are 8 apples on a table and you take away 2 apples, how many apples will be left on the table?",good,Addition and subtraction
+611,"If there are 8 apples on a table and you take away 2 apples, how many apples will be left on the table?",good,Multiplication and division
 612,There are 6 oranges in a basket with one orange missing. How many oranges are in the basket?,bad,Multiplication and division
 614,A rectangle has a width of 12 and a height of 18. What is the area of the rectangle in square inches?,good,Multiplication and division
-624,"If I had 6 quarters, 3 dimes, and 2 nickels, how much money would I have altogether?",good,Addition and subtraction
-626,"If I had 6 quarters, 3 dimes, and 2 nickels, what would be my total amount of money if I had no pennies or nic",bad,Addition and subtraction
-627,"The cost of a car is $10,000. What is the selling price if the dealer charges a 10% commission?",bad,Fractions
-632,"If you have 2 apples, 4 oranges, and 3 bananas, how many pieces of fruit do you have altogether?",good,Addition and subtraction
-633,"If a train travels at an average speed of 60 miles per hour for 8 hours, how",bad,Fractions
-635,The sum of three numbers is 18. What is the product of the three numbers?,bad,Measurements
-636,The sum of four numbers is 24. What is the product of the four numbers?,bad,Measurements
-637,"If you have 5 apples and 3 oranges, how many different combinations can you make with them?",good,Addition and subtraction
+624,"If I had 6 quarters, 3 dimes, and 2 nickels, how much money would I have altogether?",good,Multiplication and division
+626,"If I had 6 quarters, 3 dimes, and 2 nickels, what would be my total amount of money if I had no pennies or nic",bad,Multiplication and division
+627,"The cost of a car is $10,000. What is the selling price if the dealer charges a 10% commission?",bad,Multiplication and division
+632,"If you have 2 apples, 4 oranges, and 3 bananas, how many pieces of fruit do you have altogether?",good,Multiplication and division
+633,"If a train travels at an average speed of 60 miles per hour for 8 hours, how",bad,Multiplication and division
+635,The sum of three numbers is 18. What is the product of the three numbers?,bad,Multiplication and division
+636,The sum of four numbers is 24. What is the product of the four numbers?,bad,Multiplication and division
+637,"If you have 5 apples and 3 oranges, how many different combinations can you make with them?",good,Multiplication and division
 644,The price of gasoline drops from $1.00 per gallon to $0.95 per gallon. What is the dollar amount of the increase?,bad,Multiplication and division
 646,"If a car travels at an average speed of 30 miles per hour, how many minutes will it take for the car to travel 180 miles?",bad,Multiplication and division
 648,The price of a shirt is $24.99. What is the cost of the shirt if it is on sale for 20% off?,bad,Multiplication and division
-649,The cost of a pizza is $12.00 and the cost of a soda is $1.00. What is the total cost?,good,Addition and subtraction
-650,"If you have $6, what can you buy with it?",bad,Addition and subtraction
-651,"If you have 5 apples, how many apples do you have altogether?",bad,Mixed operations
+649,The cost of a pizza is $12.00 and the cost of a soda is $1.00. What is the total cost?,good,Multiplication and division
+650,"If you have $6, what can you buy with it?",bad,Multiplication and division
+651,"If you have 5 apples, how many apples do you have altogether?",bad,Multiplication and division
 656,What is the sum of all the numbers from 1 to 100?,bad,Multiplication and division
-657,"If you have $5,000 in your bank account and you make an investment that earns 10% interest per year, how much money will be in your account after 5 years?",good,Fractions
-658,A company has three employees who work 8 hours each day. How many hours does each employee work in a day?,bad,Addition and subtraction
-660,The cost of a certain item is $10 more than its sale price. What is the sale price of the item?,bad,Money
-662,A certain store sells shirts for $20 each or 2 for $30. How much money would I save if I bought 3 shirts instead of 2?,bad,Addition and subtraction
-663,"If you have 12 cups of water and pour them into two containers, how many cups will be in each container?",good,Addition and subtraction
-664,"If a person has $2.00 in nickels, dimes, and quarters, how many of each coin does he have?",bad,Mixed operations
-666,"If you have a jar with 3 apples and 4 oranges, how many different combinations can you make with just one apple and one orange?",bad,Fractions
-667,"If you have 6 eggs and want to make 1 dozen eggs, how many eggs will you need to buy?",bad,Addition and subtraction
-668,A rectangular field is 50 feet long and 30 feet wide. What are the dimensions in acres?,good,Measurements
+657,"If you have $5,000 in your bank account and you make an investment that earns 10% interest per year, how much money will be in your account after 5 years?",good,Multiplication and division
+658,A company has three employees who work 8 hours each day. How many hours does each employee work in a day?,bad,Multiplication and division
+660,The cost of a certain item is $10 more than its sale price. What is the sale price of the item?,bad,Multiplication and division
+662,A certain store sells shirts for $20 each or 2 for $30. How much money would I save if I bought 3 shirts instead of 2?,bad,Multiplication and division
+663,"If you have 12 cups of water and pour them into two containers, how many cups will be in each container?",good,Multiplication and division
+664,"If a person has $2.00 in nickels, dimes, and quarters, how many of each coin does he have?",bad,Multiplication and division
+666,"If you have a jar with 3 apples and 4 oranges, how many different combinations can you make with just one apple and one orange?",bad,Multiplication and division
+667,"If you have 6 eggs and want to make 1 dozen eggs, how many eggs will you need to buy?",bad,Multiplication and division
+668,A rectangular field is 50 feet long and 30 feet wide. What are the dimensions in acres?,good,Multiplication and division
 670,"If a rectangle has an area of 100 square inches, what is the length of the rectangle if it is 3 inches wide?",bad,Multiplication and division
 671,The perimeter of a triangle is 20 centimeters. What are the lengths of its three sides?,bad,Multiplication and division
 672,The volume of a cube with edges that measure 5 centimeters is 125 cubic centimeters. What are the dimensions in meters?,good,Multiplication and division
-673,A certain store sells a shirt for $12.00 and a pair of pants for $24.00. What is the cost of both items?,good,Addition and subtraction
-674,"If you have 12 pencils, how many do you have if you give away 3?",good,Addition and subtraction
+673,A certain store sells a shirt for $12.00 and a pair of pants for $24.00. What is the cost of both items?,good,Multiplication and division
+674,"If you have 12 pencils, how many do you have if you give away 3?",good,Multiplication and division
 675,"If it takes 3 hours to mow the lawn, how long will it take if you work at twice the rate?",bad,Multiplication and division
 677,A person has a savings account with $500 in it and earns interest at an annual rate of 5%. How much money will be in the account after one year?,good,Multiplication and division
-678,"The average height for girls is 5'4"" and the average height for boys is 5'8"". What is the difference in height between girls and boys?",bad,Measurements
+678,"The average height for girls is 5'4"" and the average height for boys is 5'8"". What is the difference in height between girls and boys?",bad,Multiplication and division
 680,"If there are 6 oranges on a table, how many oranges",bad,Multiplication and division
 681,"If you have two quarters of $1.00 bills, how much money do you have?",bad,Multiplication and division
-691,"A man has $1,000 in his checking account. He spends $200 and then deposits $400 into his account. What is the balance in his account?",good,Addition and subtraction
+691,"A man has $1,000 in his checking account. He spends $200 and then deposits $400 into his account. What is the balance in his account?",good,Multiplication and division
 693,"If it takes 3 seconds to solve a problem, how long will it take to solve 10 problems?",bad,Multiplication and division
-695,"If you have 10 oranges and you give away 6 oranges, how many oranges do you have left?",good,Addition and subtraction
-696,"If you have 12 cookies and you eat 4 cookies, how many cookies do you have left?",good,Addition and subtraction
+695,"If you have 10 oranges and you give away 6 oranges, how many oranges do you have left?",good,Multiplication and division
+696,"If you have 12 cookies and you eat 4 cookies, how many cookies do you have left?",good,Multiplication and division
 699,A man earns $10 an hour for 8 hours. How much does he earn?,bad,Multiplication and division
 704,A right triangle has two angles that measure 45 degrees and one angle that measures 30 degrees. What are the lengths of the sides?,good,Addition and subtraction
-705,"A parallelogram has two adjacent sides that measure 6 meters and one side that measures 4 meters long, what is the",bad,Addition and subtraction
-707,"If you have a dollar and spend 25 cents, what is the amount of money you have left?",bad,Multiplication and division
-722,A rectangular box is 3 feet by,bad,Measurements
+705,"A parallelogram has two adjacent sides that measure 6 meters and one side that measures 4 meters long, what is the",bad,Multiplication and division
+707,"If you have a dollar and spend 25 cents, what is the amount of money you have left?",bad,Addition and subtraction
+722,A rectangular box is 3 feet by,bad,Multiplication and division
 723,"If the cost of a book is $3.00, what is the cost of 3 books?",bad,Multiplication and division
 725,"If it takes 5 minutes to walk 1 mile, how long will it take to walk 2 miles?",bad,Multiplication and division
-726,"If you have a total of $6.00, and spend $1.00 on a shirt, how much money do you have left?",good,Addition and subtraction
-734,"If there are 12 pencils in the box, how many pencils are there in all?",bad,Multiplication and division
+726,"If you have a total of $6.00, and spend $1.00 on a shirt, how much money do you have left?",good,Multiplication and division
+734,"If there are 12 pencils in the box, how many pencils are there in all?",bad,Addition and subtraction
 738,What is the quotient of 2/3 divided by 3/4?,good,Multiplication and division
 741,"If a number has a remainder of 3 when divided by 4, what is the number?",bad,Multiplication and division
-744,"The cost of a loaf of bread at a grocery store is $2.50 per loaf. If you buy 4 loaves, how much will it cost?",good,Mixed operations
-746,"A person's height in feet and inches can be written as 5'7"". How many inches does this represent?",good,Figures
-748,"A triangle has an area that equals 25 square centimeters, but its base length is not given in centimeters or meters; what units does it measure in?",good,Fractions
+744,"The cost of a loaf of bread at a grocery store is $2.50 per loaf. If you buy 4 loaves, how much will it cost?",good,Multiplication and division
+746,"A person's height in feet and inches can be written as 5'7"". How many inches does this represent?",good,Multiplication and division
+748,"A triangle has an area that equals 25 square centimeters, but its base length is not given in centimeters or meters; what units does it measure in?",good,Addition and subtraction
 753,A rectangle is 8 inches by 12 inches. What is the perimeter of the rectangle?,bad,Multiplication and division
 759,A rectangle is 3 feet by 5 feet. What is the area of the rectangle?,bad,Multiplication and division
-761,The perimeter of a square is 24 inches. What is the area of the square?,bad,Multiplication and division
-762,The circumference of a circle with a radius of 6 inches is 30 inches. What is the diameter?,bad,Multiplication and division
-763,"There are 12 eggs in a carton, and each egg weighs 1 ounce. How many ounces in all are there in this carton?",good,Fractions
+761,The perimeter of a square is 24 inches. What is the area of the square?,bad,Addition and subtraction
+762,The circumference of a circle with a radius of 6 inches is 30 inches. What is the diameter?,bad,Addition and subtraction
+763,"There are 12 eggs in a carton, and each egg weighs 1 ounce. How many ounces in all are there in this carton?",good,Multiplication and division
 764,A cube has an edge length of 10 cm and an edge diagonal length of 20 cm. What is its volume in cubic centimeters?,good,Multiplication and division
 765,"A right triangle has one leg that measures 3 meters and another leg that measures 4 meters, what is the hypotenuse length in meters?",good,Addition and subtraction
 766,"If you have $2,000 to invest, how much money will you have after investing it for 2 years at 5% interest",bad,Multiplication and division
 768,A car is traveling at a constant speed of 50 miles per hour for 2 hours. What is the distance traveled?,good,Multiplication and division
-773,A person has $2.00 in quarters and dimes but no pennies or nickels or quarters or dimes or nickels or pennies or nickels or dimes or quarters or pennies. How much money does the person have?,good,Mixed operations
-774,A person has $1 in quarters and $2 in dimes but,bad,Addition and subtraction
+773,A person has $2.00 in quarters and dimes but no pennies or nickels or quarters or dimes or nickels or pennies or nickels or dimes or quarters or pennies. How much money does the person have?,good,Multiplication and division
+774,A person has $1 in quarters and $2 in dimes but,bad,Multiplication and division
 776,"If it takes 10 minutes to walk to school and 5 minutes to walk back home, how long does it take to walk to school and back home?",bad,Multiplication and division
-785,The average height of a 4th grader is 3.5 feet. What is the height of a 4th grader?,bad,Multiplication and division
+785,The average height of a 4th grader is 3.5 feet. What is the height of a 4th grader?,bad,Addition and subtraction
 790,"If you have a bag of M&Ms and you want to divide them equally among 3 friends, how many M&Ms will each person get?",good,Multiplication and division
-792,"If 2x + 3 = 10, what is x?",bad,Fractions
-795,What is the volume of a cube with an edge length of 2 feet?,bad,Multiplication and division
+792,"If 2x + 3 = 10, what is x?",bad,Mixed operations
+795,What is the volume of a cube with an edge length of 2 feet?,bad,Addition and subtraction
 800,"A person has $5,000 in her savings account. She earns $500 interest every year. How much money will she have in her account after 5 years?",good,Multiplication and division
-802,"If you have a total of $3,000 and you spend $1,000 on clothes, what percent of your money did you spend on clothes?",good,Addition and subtraction
-803,The average height for a man is 5 feet 9 inches tall and the average height for a woman is 5 feet 3 inches tall. What is the difference in height between men and women?,good,Measurements
+802,"If you have a total of $3,000 and you spend $1,000 on clothes, what percent of your money did you spend on clothes?",good,Multiplication and division
+803,The average height for a man is 5 feet 9 inches tall and the average height for a woman is 5 feet 3 inches tall. What is the difference in height between men and women?,good,Multiplication and division
 804,A person can run at a speed of 8 miles per hour for 1 hour without stopping to rest or eat anything. How many miles,bad,Multiplication and division
-805,The sum of two numbers is 45. The larger number is 20% greater than the smaller number. What are the numbers?,bad,Modelling
-806,"A man has a bag of coins containing 3 quarters, 4 dimes, and 5 nickels. What is the total value of the coins in the bag?",good,Money
-807,"The cost of a shirt is $14.00. If you buy it on sale for 25% off, what would be the cost of the shirt?",good,Mixed operations
+805,The sum of two numbers is 45. The larger number is 20% greater than the smaller number. What are the numbers?,bad,Mixed operations
+806,"A man has a bag of coins containing 3 quarters, 4 dimes, and 5 nickels. What is the total value of the coins in the bag?",good,Multiplication and division
+807,"The cost of a shirt is $14.00. If you buy it on sale for 25% off, what would be the cost of the shirt?",good,Multiplication and division
 808,A box contains 12 pencils and 8 pens. How many pencils are there in a box?,bad,Multiplication and division
-809,"A jar contains 3 red marbles, 4 blue marbles, and 5 green marbles. What fraction of the marbles are blue?",bad,Probability
-810,There are 6 apples in a basket and 4 oranges in a bowl. How many more oranges are there than apples?,bad,Addition and subtraction
-812,There are 2 rows with 4 boxes in each row and 3 boxes in each column,bad,Addition and subtraction
-813,A carpenter is building a fence. He has cut and stacked the wood for the first row of boards. The pile is 4 feet high and he needs to cut and stack the wood for the second row of boards. How tall will the pile be after he stacks the second row?,bad,Graph
-814,"A man has $1,000 in his savings account. He withdraws $200 from his account and deposits it into his checking account. What is the balance in his savings account now?",good,Mixed operations
+809,"A jar contains 3 red marbles, 4 blue marbles, and 5 green marbles. What fraction of the marbles are blue?",bad,Multiplication and division
+810,There are 6 apples in a basket and 4 oranges in a bowl. How many more oranges are there than apples?,bad,Multiplication and division
+812,There are 2 rows with 4 boxes in each row and 3 boxes in each column,bad,Multiplication and division
+813,A carpenter is building a fence. He has cut and stacked the wood for the first row of boards. The pile is 4 feet high and he needs to cut and stack the wood for the second row of boards. How tall will the pile be after he stacks the second row?,bad,Addition and subtraction
+814,"A man has $1,000 in his savings account. He withdraws $200 from his account and deposits it into his checking account. What is the balance in his savings account now?",good,Multiplication and division
 817,"If you have 5 pounds of potatoes, how many pounds of carrots would you need to buy to make 10 pounds of vegetables?",bad,Multiplication and division
-818,"If you had a total of $2,000 in your checking account at the beginning of this month and spent $500 on groceries last week, what is your balance now?",bad,Addition and subtraction
-819,A carpenter bought a new saw,bad,Measurements
+818,"If you had a total of $2,000 in your checking account at the beginning of this month and spent $500 on groceries last week, what is your balance now?",bad,Multiplication and division
+819,A carpenter bought a new saw,bad,Multiplication and division
 822,The White-Bright Toothbrush Company hired 30 new employees. This hiring increased the companyâ€™s total workforce by 5%. What percentage of the companyâ€™s workforce is now African American?,good,Multiplication and division
-825,The White-Bright Toothbrush Company hired 30 new employees. This hiring increased,bad,Figures
-827,"If you have $5.00 and I give you $1.00, how much money do you have now?",good,Addition and subtraction
-836,How many 2-digit numbers can you make using only the digits 1 and 2?,bad,Addition and subtraction
+825,The White-Bright Toothbrush Company hired 30 new employees. This hiring increased,bad,Multiplication and division
+827,"If you have $5.00 and I give you $1.00, how much money do you have now?",good,Multiplication and division
+836,How many 2-digit numbers can you make using only the digits 1 and 2?,bad,Multiplication and division
 846,"If you have a jar with 10 marbles, how many more marbles can you put in it so that there are 20 marbles in total?",bad,Multiplication and division
-850,If you had 5 quarters and spent one,bad,Addition and subtraction
+850,If you had 5 quarters and spent one,bad,Multiplication and division
 854,"If you have a jar with 8 jelly beans in it, how many jelly beans will you have if you take out 12 jelly beans from the jar?",good,Multiplication and division
-856,"If there are 10 pencils on the table and 2 more pencils are added to the table, how many pencils are on the table now?",good,Mixed operations
+856,"If there are 10 pencils on the table and 2 more pencils are added to the table, how many pencils are on the table now?",good,Multiplication and division
 858,If there are 10 pencils on the table and 1,bad,Multiplication and division
 859,"If you have a jar with 3 quarters, 2 dimes, and 1 nickel, how many coins are in the jar?",bad,Multiplication and division
-878,"If your monthly income is $3,600 and your monthly expenses are $2,400 what is",bad,Addition and subtraction
+878,"If your monthly income is $3,600 and your monthly expenses are $2,400 what is",bad,Multiplication and division
 879,"The average person has about 10,000 hairs on their head.",bad,Multiplication and division
-881,"If you have a jar with 4 apples and you add 2 more apples, how many apples are in the jar?",good,Addition and subtraction
-883,"If I have $10 in my pocket, how much money do I have altogether?",bad,Mixed operations
+881,"If you have a jar with 4 apples and you add 2 more apples, how many apples are in the jar?",good,Multiplication and division
+883,"If I have $10 in my pocket, how much money do I have altogether?",bad,Multiplication and division
 886,"If you have a rectangle that is 10 inches by 20 inches, what is the perimeter of that rectangle?",good,Multiplication and division
 887,"If you have a triangle that has a base of 8 centimeters and a height of 6 centimeters, what is the area of that triangle?",good,Addition and subtraction
-888,"A box contains 3 red and 2 blue marbles. If you randomly select one marble from the box, what is the probability of selecting a red marble?",good,Fractions
-889,"A group of people are standing in a line. The first person is standing at the front of the line, and the last person is standing at the back of the line. What is the probability that the person in the middle of this line will be standing between two people who are wearing red shirts?",bad,Fractions
-891,"If you have 10 coins and 7 are heads, what is the probability that three consecutive flips will all be heads?",good,Addition and subtraction
+888,"A box contains 3 red and 2 blue marbles. If you randomly select one marble from the box, what is the probability of selecting a red marble?",good,Multiplication and division
+889,"A group of people are standing in a line. The first person is standing at the front of the line, and the last person is standing at the back of the line. What is the probability that the person in the middle of this line will be standing between two people who are wearing red shirts?",bad,Addition and subtraction
+891,"If you have 10 coins and 7 are heads, what is the probability that three consecutive flips will all be heads?",good,Multiplication and division
 896,"A box of pencils contains 12 pencils. If you take out 3 pencils, how many pencils are left in the box?",good,Multiplication and division
 901,What is the difference between circumference and diameter?,agood,Addition and subtraction
 902,What is the difference between area and perimeter?,agood,Addition and subtraction
-905,"If you have $10,000 to invest, what would be your best option to maximize both return on investment (ROI) and minimize risk",bad,Mixed operations
-910,"If 10% of a number is 20, what is the number?",good,Fractions
-915,"If I give you $1 and then take it back again, how much money do I still have altogether?",bad,Addition and subtraction
-917,"If you buy a $6 shirt and a $4 shirt, how much money will you spend?",bad,Addition and subtraction
-923,A man has $200 in his wallet. He spends $10 on a shirt and $5 on a hat. How much money does he have left?,good,Addition and subtraction
-924,"A woman has 4 children. If she has 3 more children, how many children will she have?",good,Addition and subtraction
-926,The perimeter of a rectangle is 32 inches long. What is the length of the rectangle if its width,bad,Modelling
-928,"If you have a jar with 3 red marbles, 2 green marbles, and 1 blue marble, what is the probability of picking a green marble?",good,Probability
+905,"If you have $10,000 to invest, what would be your best option to maximize both return on investment (ROI) and minimize risk",bad,Multiplication and division
+910,"If 10% of a number is 20, what is the number?",good,Multiplication and division
+915,"If I give you $1 and then take it back again, how much money do I still have altogether?",bad,Multiplication and division
+917,"If you buy a $6 shirt and a $4 shirt, how much money will you spend?",bad,Multiplication and division
+923,A man has $200 in his wallet. He spends $10 on a shirt and $5 on a hat. How much money does he have left?,good,Multiplication and division
+924,"A woman has 4 children. If she has 3 more children, how many children will she have?",good,Multiplication and division
+926,The perimeter of a rectangle is 32 inches long. What is the length of the rectangle if its width,bad,Fractions
+928,"If you have a jar with 3 red marbles, 2 green marbles, and 1 blue marble, what is the probability of picking a green marble?",good,Multiplication and division
 930,What is the difference between an even number and an odd number?,agood,Addition and subtraction
 931,What is the difference between a prime number and a composite number?,agood,Addition and subtraction
 932,What is the difference between a square number and a cube number?,agood,Addition and subtraction
 933,What is the difference between an integer and a rational number?,agood,Addition and subtraction
-934,Which has more digits: 123 or 1234567890?,good,Comparison
-935,How many numbers are there from 0 to 10 that are divisible by 3?,bad,Number
+934,Which has more digits: 123 or 1234567890?,good,Multiplication and division
+935,How many numbers are there from 0 to 10 that are divisible by 3?,bad,Multiplication and division
 936,"A box of cereal contains 12 ounces. If the cereal cost $3 per box, how much does each ounce cost?",bad,Multiplication and division
-941,The volume of a rectangular prism is 36 cubic inches and its height is 10 inches. What are its dimensions in feet?,good,Mixed operations
-944,A triangle has an area of 18 square inches and a perimeter of 12 inches. What are its dimensions in feet?,good,Multiplication and division
+941,The volume of a rectangular prism is 36 cubic inches and its height is 10 inches. What are its dimensions in feet?,good,Addition and subtraction
+944,A triangle has an area of 18 square inches and a perimeter of 12 inches. What are its dimensions in feet?,good,Addition and subtraction
 945,"If the average person walks at a rate of 3 miles per hour, how many miles can they walk in 2 hours?",good,Multiplication and division
-947,"If you have 12 apples and share them equally with 4 friends, how many apples will each person get?",good,Addition and subtraction
+947,"If you have 12 apples and share them equally with 4 friends, how many apples will each person get?",good,Multiplication and division
 948,"If you have 5 more than twice as many pencils as pens, how many pens do you have?",bad,Multiplication and division
 949,"If it takes 6 hours to drive from New York to Chicago, what is the distance in miles?",bad,Multiplication and division
-950,How many times greater is 10 than 2?,bad,Fractions
+950,How many times greater is 10 than 2?,bad,Multiplication and division
 952,The number of people who live in the United States is about 300 million. What percentage of that number are children under 18 years old?,good,Multiplication and division
-953,The area of a rectangle is 36 square feet and its length is 8 feet longer than its width. What is the,bad,Addition and subtraction
-955,"If a person earns $20 per hour and works 8 hours, how much money does he or she earn?",agood,Addition and subtraction
-961,How many inches are there in a yard?,bad,Money
-962,How many feet are there in a mile?,bad,Money
+953,The area of a rectangle is 36 square feet and its length is 8 feet longer than its width. What is the,bad,Multiplication and division
+955,"If a person earns $20 per hour and works 8 hours, how much money does he or she earn?",agood,Multiplication and division
+961,How many inches are there in a yard?,bad,Addition and subtraction
+962,How many feet are there in a mile?,bad,Addition and subtraction
 968,"If x = 10, what does y equal?",bad,Multiplication and division
 978,The circumference of a circle is 25 cm and the radius is 3 cm what is the area of the circle in square centimeters?,good,Addition and subtraction
-980,"If a number is increased by 10% and then decreased by 20%, what is the final result?",good,Addition and subtraction
-986,"If you have a jar with 6 red marbles and 8 blue marbles, how many more blue marbles do you need to fill the jar?",bad,Addition and subtraction
+980,"If a number is increased by 10% and then decreased by 20%, what is the final result?",good,Multiplication and division
+986,"If you have a jar with 6 red marbles and 8 blue marbles, how many more blue marbles do you need to fill the jar?",bad,Multiplication and division
 987,"If there are 10 apples on a tree and 2 apples fall off, how many apples are left on the tree?",good,Multiplication and division
-988,"If there are 5 oranges on a table and 3 oranges are taken away, how many oranges are left on the table?",good,Addition and subtraction
+988,"If there are 5 oranges on a table and 3 oranges are taken away, how many oranges are left on the table?",good,Multiplication and division
 990,"A box contains 12 pencils. If 3 pencils are removed from the box, how many pencils are left in the box?",good,Multiplication and division
-991,"A person has $5 to spend on food for lunch. The person can buy either a sandwich or a salad for $2 each. If the person buys both, how much money will be left over?",bad,Fractions
+991,"A person has $5 to spend on food for lunch. The person can buy either a sandwich or a salad for $2 each. If the person buys both, how much money will be left over?",bad,Multiplication and division
 992,A rectangle is 18 inches by 24 inches. What is the area of this rectangle?,bad,Multiplication and division
 993,"If it takes 4 hours to drive 120 miles, what is the average speed of the car?",bad,Multiplication and division
-994,A triangle has two sides that measure 10 cm and 12 cm long respectively and one side that measures 8 cm long. What is the length of the third side?,good,Addition and subtraction
+994,A triangle has two sides that measure 10 cm and 12 cm long respectively and one side that measures 8 cm long. What is the length of the third side?,good,Multiplication and division
 995,A rectangle has a width of 6 inches and a height of 8 inches. What is its area in square inches?,bad,Multiplication and division
-996,"There are 20 people at a party and they all have different favorite colors: blue, green, red, yellow, purple, pink, black, white, orange, brown",agood,Probability
+996,"There are 20 people at a party and they all have different favorite colors: blue, green, red, yellow, purple, pink, black, white, orange, brown",agood,Multiplication and division
 997,A car is traveling at a speed of 40 miles per hour. How many feet will it travel in one minute?,good,Multiplication and division
 998,A person has $5.00 in coins and wants to buy a soda that costs $1.25. How many coins does the person need to give the cashier?,bad,Multiplication and division
-999,The circumference of a circle is 24 inches. What is the diameter of this circle?,bad,Multiplication and division
-1001,"If you have 10 oranges, how many oranges do you have altogether?",bad,Mixed operations
-1002,"If you have 8 bananas, how many bananas do you have altogether?",bad,Mixed operations
-1003,"If you have 12 pears, how many pears do you have altogether?",bad,Mixed operations
-1005,"If you have 2 cups of water and 1 cup of milk, how much liquid do you have altogether?",good,Addition and subtraction
-1006,"If there are 3 pencils on the desk and 2 pens on the desk, how many writing utensils are there altogether?",good,Addition and subtraction
+999,The circumference of a circle is 24 inches. What is the diameter of this circle?,bad,Addition and subtraction
+1001,"If you have 10 oranges, how many oranges do you have altogether?",bad,Multiplication and division
+1002,"If you have 8 bananas, how many bananas do you have altogether?",bad,Multiplication and division
+1003,"If you have 12 pears, how many pears do you have altogether?",bad,Multiplication and division
+1005,"If you have 2 cups of water and 1 cup of milk, how much liquid do you have altogether?",good,Multiplication and division
+1006,"If there are 3 pencils on the desk and 2 pens on the desk, how many writing utensils are there altogether?",good,Multiplication and division
 1007,A car travels at 50 miles per hour for 5 hours straight without stopping for gas or food breaks; what is its average speed for those 5 hours?,good,Multiplication and division
-1010,A person can walk at a rate of 2 miles per hour. How long will it take for the person to walk 10 miles?,bad,Time
+1010,A person can walk at a rate of 2 miles per hour. How long will it take for the person to walk 10 miles?,bad,Multiplication and division
 1011,A person is walking at a rate of 2 miles per hour. How far will they have walked after 1 hour?,good,Multiplication and division
 1013,"If a car travels at 40 miles per hour for 4 hours, how many minutes will it have traveled?",good,Multiplication and division
-1021,A person can run at a speed of 5 miles per hour. How long will it take to run 3 miles?,good,Time
+1021,A person can run at a speed of 5 miles per hour. How long will it take to run 3 miles?,good,Multiplication and division
 1022,"If you have $10,000 in your bank account, what is the interest rate on your account?",bad,Multiplication and division
-1023,The circumference of a circle is 25 centimeters. What is the diameter of the circle?,bad,Multiplication and division
-1026,"If you have $1,000 in your bank",bad,Addition and subtraction
-1028,"A person has $200 to invest. If the interest rate is 5%, how much money will they have after 3 years?",bad,Fractions
-1035,"A rectangle has an area of 144 square inches, and",bad,Comparison
-1036,"If a number is multiplied by 10 and the result is divided by 2, what is the quotient?",good,Addition and subtraction
+1023,The circumference of a circle is 25 centimeters. What is the diameter of the circle?,bad,Addition and subtraction
+1026,"If you have $1,000 in your bank",bad,Multiplication and division
+1028,"A person has $200 to invest. If the interest rate is 5%, how much money will they have after 3 years?",bad,Multiplication and division
+1035,"A rectangle has an area of 144 square inches, and",bad,Multiplication and division
+1036,"If a number is multiplied by 10 and the result is divided by 2, what is the quotient?",good,Multiplication and division
 1044,What are two ways to find out if you have enough money in your bank account to pay for something that costs $24.95 before tax?,bad,Multiplication and division
 1049,The cost of a shirt is $24.99 and the sales tax is 8%. What would be the total cost if there was no sales tax?,good,Multiplication and division
-1051,"The cost of a shirt is $24.99 and there's an additional charge for shipping and handling that costs an additional $5.00, what would be the total amount for this purchase with a 10% tip?",good,Mixed operations
-1059,What is the value of x in this equation: 3x+2=11,bad,Figures
-1063,What is the perimeter of a rectangle?,agood,Measurements
+1051,"The cost of a shirt is $24.99 and there's an additional charge for shipping and handling that costs an additional $5.00, what would be the total amount for this purchase with a 10% tip?",good,Multiplication and division
+1059,What is the value of x in this equation: 3x+2=11,bad,Multiplication and division
+1063,What is the perimeter of a rectangle?,agood,Addition and subtraction
 1065,"What are the coordinates for the point (2, 3)?",bad,Multiplication and division
-1066,What is the slope of a line?,agood,Measurements
+1066,What is the slope of a line?,agood,Addition and subtraction
 1068,What is a decimal number?,agood,Multiplication and division
-1075,"A person's heart rate should be between 60% and 90% of the difference between 220 minus their age, according to this guideline, what is a 30 year old's max heartrate during exercise?",good,Addition and subtraction
-1090,A car is traveling at a speed of 60 miles per hour. What is the car's speed in kilometers per hour?,bad,Measurements
-1094,"A box contains 8 red marbles, 4 green marbles, and 2 blue marbles. What percentage of the marbles are blue?",bad,Probability
-1096,"A car is worth $10,000. What is the percent of depreciation, rounded to the nearest percent?",bad,Modelling
+1075,"A person's heart rate should be between 60% and 90% of the difference between 220 minus their age, according to this guideline, what is a 30 year old's max heartrate during exercise?",good,Multiplication and division
+1090,A car is traveling at a speed of 60 miles per hour. What is the car's speed in kilometers per hour?,bad,Multiplication and division
+1094,"A box contains 8 red marbles, 4 green marbles, and 2 blue marbles. What percentage of the marbles are blue?",bad,Multiplication and division
+1096,"A car is worth $10,000. What is the percent of depreciation, rounded to the nearest percent?",bad,Multiplication and division
 1097,"A person's weight increases by 10 pounds in one year. What is the percent of increase, rounded to the nearest percent?",bad,Multiplication and division
 1100,"The price of a gallon of milk decreased from $3.00 to $2.50 in one month. What is the percent decrease, rounded to the nearest percent?",bad,Multiplication and division
 1101,The price of a can of soup decreased from $1.00 to 50 cents in two months. What is the percent decrease,bad,Multiplication and division
-1102,"A car is worth $10,000 and has a trade-in value of $5,000. What is the difference in value?",bad,Addition and subtraction
+1102,"A car is worth $10,000 and has a trade-in value of $5,000. What is the difference in value?",bad,Multiplication and division
 1103,A person's weight is 160 pounds. What is their BMI?,good,Multiplication and division
-1104,"If you have $200 and spend $30, what will be left in your account?",good,Addition and subtraction
+1104,"If you have $200 and spend $30, what will be left in your account?",good,Multiplication and division
 1105,The percent of discount is,bad,Multiplication and division
 1106,The difference in value is,bad,Multiplication and division
-1107,BMI = weight (lbs) / height (in) x 703,good,Multiplication and division
-1108,You will have $170 left in your account,bad,Number
+1107,BMI = weight (lbs) / height (in) x 703,good,Mixed operations
+1108,You will have $170 left in your account,bad,Multiplication and division
 1109,"If you have a total of $5.00 in coins, how much money do you have?",bad,Multiplication and division
-1117,The number of people in a room is multiplied by the number of people in another room. What is the total number of people?,bad,Measurements
+1117,The number of people in a room is multiplied by the number of people in another room. What is the total number of people?,bad,Fractions
 1118,A car travels at a constant speed for 10 minutes. How far does it travel?,bad,Multiplication and division
-1126,"If I buy a book for $12 and then sell it for $8, how much money did I make?",good,Addition and subtraction
-1132,"If a number is added to another number, what is the result?",bad,Mixed operations
-1133,"If a number is subtracted from another number, what is the result?",bad,Mixed operations
-1135,What are the prime factors of 12?,agood,Number
+1126,"If I buy a book for $12 and then sell it for $8, how much money did I make?",good,Multiplication and division
+1132,"If a number is added to another number, what is the result?",bad,Addition and subtraction
+1133,"If a number is subtracted from another number, what is the result?",bad,Addition and subtraction
+1135,What are the prime factors of 12?,agood,Multiplication and division
 1142,The percentage of women in the program is 50%.,bad,Multiplication and division
 1146,The diameter of a circle with a circumference of 16 inches is 8 inches.,bad,Multiplication and division
-1148,A train leaves from point A and travels at a constant speed of 60 miles per hour. It takes 2 hours to travel 120 miles. How long will it take to travel 240 miles?,good,Addition and subtraction
-1149,"The cost of a shirt is $10, but the store offers a 20% discount if you buy more than one shirt. If you buy 3 shirts, how much money will you save?",good,Mixed operations
+1148,A train leaves from point A and travels at a constant speed of 60 miles per hour. It takes 2 hours to travel 120 miles. How long will it take to travel 240 miles?,good,Multiplication and division
+1149,"The cost of a shirt is $10, but the store offers a 20% discount if you buy more than one shirt. If you buy 3 shirts, how much money will you save?",good,Multiplication and division
 1150,The average number of books read by a 4th grader in a month is 12. What is the total number of books read by 4th graders in a year?,bad,Multiplication and division
-1155,"In order to make an apple pie with 8 cups of flour, what other ingredient would be needed?",bad,Fractions
+1155,"In order to make an apple pie with 8 cups of flour, what other ingredient would be needed?",bad,Multiplication and division
 1158,"If you have $5.00 in coins and you want to make change for a dollar, how many coins will you need?",bad,Multiplication and division
 1159,"If the circumference of a circle is 12 inches and the radius is 3 inches, what is the area of the circle?",good,Addition and subtraction
 1162,The number line below shows all numbers from -5 to 5:,bad,Multiplication and division
-1163,"The price of a pizza is $8.00. If the customer pays with a $10 bill, how much change should they receive?",good,Addition and subtraction
+1163,"The price of a pizza is $8.00. If the customer pays with a $10 bill, how much change should they receive?",good,Multiplication and division
 1164,A person has $2.00 in nickels and dimes. How many coins are there?,bad,Multiplication and division
 1166,"The cost of a shirt is $14.00. If the customer buys two shirts, what is the total cost?",bad,Multiplication and division
 1169,What number comes after 8?,good,Multiplication and division
-1170,"If you have 6 quarters, how many dimes do you have altogether?",bad,Mixed operations
-1171,"If you have 5 nickels and 7 pennies,",bad,Addition and subtraction
+1170,"If you have 6 quarters, how many dimes do you have altogether?",bad,Multiplication and division
+1171,"If you have 5 nickels and 7 pennies,",bad,Multiplication and division
 1172,"If the price of a shirt is $12.50, what is the cost if it is discounted by 25%?",bad,Multiplication and division
-1173,"If you have 7 apples and you eat 2, how many do you have left?",good,Addition and subtraction
+1173,"If you have 7 apples and you eat 2, how many do you have left?",good,Multiplication and division
 1174,"If you have 5 quarters, how many dimes do you need to make 50 cents?",bad,Multiplication and division
 1175,"If there are 3 people in a room and 2 of them leave, how many people are left in the room?",good,Multiplication and division
 1178,What number comes after 9?,good,Multiplication and division
-1179,"If I have 10 cookies and I eat 3, how many cookies do I have left?",good,Addition and subtraction
-1180,"If I have 2 oranges and I eat 1, how many oranges",bad,Addition and subtraction
-1181,"A person has a savings account with $5,000 in it. If the interest rate is 2% per year, how much will be in the account after 5 years?",good,Mixed operations
-1185,"The insurance policy pays $80,000",bad,Addition and subtraction
+1179,"If I have 10 cookies and I eat 3, how many cookies do I have left?",good,Multiplication and division
+1180,"If I have 2 oranges and I eat 1, how many oranges",bad,Multiplication and division
+1181,"A person has a savings account with $5,000 in it. If the interest rate is 2% per year, how much will be in the account after 5 years?",good,Multiplication and division
+1185,"The insurance policy pays $80,000",bad,Multiplication and division
 1187,After five years there would be about $6200,bad,Multiplication and division
 1189,A carpenter charges $25 per hour for labor. How much will he charge to build a bookshelf that takes him 4 hours to complete?,bad,Multiplication and division
-1190,"If the average person walks 3 miles per day, how many miles will they walk in a week?",bad,Multiplication and division
-1193,"If you have 5 apples and I give you 3 more, how many apples do you have now?",good,Addition and subtraction
+1190,"If the average person walks 3 miles per day, how many miles will they walk in a week?",bad,Addition and subtraction
+1193,"If you have 5 apples and I give you 3 more, how many apples do you have now?",good,Multiplication and division
 1198,A person is walking at a rate of 2 miles per hour. How many hours will it take to walk 20 miles?,bad,Multiplication and division
-1202,"If you have $10, how much change will you get if you buy something that costs $1?",bad,Addition and subtraction
+1202,"If you have $10, how much change will you get if you buy something that costs $1?",bad,Multiplication and division
 1208,"If the cost of a gallon of gas is $3.00, how much will it cost to fill up a 16 gallon tank?",bad,Multiplication and division
 1211,"If you have 2 cups of flour and 1 cup of sugar, how many cups of each ingredient do you need to make a cake?",bad,Multiplication and division
-1212,"If it takes 10 minutes to bake a cake at 350 degrees Fahrenheit, how long will it take to bake the same cake at 325 degrees Fahrenheit?",good,Addition and subtraction
-1214,A car travels at an average speed of 50 miles per hour for 1 hour and 30 minutes. How long does the car travel if it travels at 60 miles per hour for half an hour?,good,Fractions
+1212,"If it takes 10 minutes to bake a cake at 350 degrees Fahrenheit, how long will it take to bake the same cake at 325 degrees Fahrenheit?",good,Multiplication and division
+1214,A car travels at an average speed of 50 miles per hour for 1 hour and 30 minutes. How long does the car travel if it travels at 60 miles per hour for half an hour?,good,Multiplication and division
 1216,The difference between two,bad,Multiplication and division
-1222,"If a person has $10 and spends $3, what is the person's net worth?",bad,Addition and subtraction
+1222,"If a person has $10 and spends $3, what is the person's net worth?",bad,Multiplication and division
 1229,"If a person earns $10 an hour for 8 hours, how much money does he or she earn?",good,Multiplication and division
-1231,"If a person has $5 in his or her pocket and buys a candy bar for $1, how much money does he or she have?",good,Money
+1231,"If a person has $5 in his or her pocket and buys a candy bar for $1, how much money does he or she have?",good,Multiplication and division
 1241,"If you buy a dozen eggs for $2.00, what is the cost per egg?",bad,Multiplication and division
-1243,What is the product of 3 x 4 x 5 x 6 x 7 x 8 x 9 x 10?,bad,Addition and subtraction
+1243,What is the product of 3 x 4 x 5 x 6 x 7 x 8 x 9 x 10?,bad,Multiplication and division
 1245,A triangle has a base of 5 centimeters and a height of 3 centimeters. What is the area of the triangle?,good,Multiplication and division
-1246,A circle has a radius of 2 centimeters. What is the circumference of the circle?,bad,Multiplication and division
+1246,A circle has a radius of 2 centimeters. What is the circumference of the circle?,bad,Addition and subtraction
 1249,Find an equation for y = x + 3,bad,Multiplication and division
-1255,"If you have $5.00 in your pocket and spend $2.00 on a candy bar, how much money do you have left?",bad,Addition and subtraction
+1255,"If you have $5.00 in your pocket and spend $2.00 on a candy bar, how much money do you have left?",bad,Multiplication and division
 1256,"If you are going to the store and need to buy two gallons of milk for $3.00 each, how much money will you need?",bad,Multiplication and division
 1257,"If you are going to the store and need to buy three boxes of cereal for $1.50 each, how much money will you need?",bad,Multiplication and division
-1262,What is the sum of 5 + 10 + 15?,agood,Number
-1264,How many inches are there in one foot?,bad,Multiplication and division
-1284,"If you have 3 apples, how",bad,Addition and subtraction
-1298,The average person walks about 1 mile in 45 minutes. What is the average speed of a person walking?,bad,Fractions
+1262,What is the sum of 5 + 10 + 15?,agood,Multiplication and division
+1264,How many inches are there in one foot?,bad,Fractions
+1284,"If you have 3 apples, how",bad,Multiplication and division
+1298,The average person walks about 1 mile in 45 minutes. What is the average speed of a person walking?,bad,Multiplication and division
 1299,A certain car gets 20 miles per gallon of gas. How many gallons of gas does it take to drive 100 miles?,bad,Multiplication and division
-1301,"If you have $1,000 and invest it at 10% interest, how much will you have after 10 years?",good,Fractions
-1305,"If you have $1,000 and invest",bad,Addition and subtraction
-1307,"If you have a jar of jelly beans that contains 12 red, 18 green, and 8 yellow, what percentage of the jelly beans are red?",good,Addition and subtraction
-1308,"If you buy a shirt for $20 and a pair of pants for $30, how much money do you have left?",bad,Addition and subtraction
-1312,How many more than 100 is 200?,good,Addition and subtraction
+1301,"If you have $1,000 and invest it at 10% interest, how much will you have after 10 years?",good,Multiplication and division
+1305,"If you have $1,000 and invest",bad,Multiplication and division
+1307,"If you have a jar of jelly beans that contains 12 red, 18 green, and 8 yellow, what percentage of the jelly beans are red?",good,Multiplication and division
+1308,"If you buy a shirt for $20 and a pair of pants for $30, how much money do you have left?",bad,Multiplication and division
+1312,How many more than 100 is 200?,good,Multiplication and division
 1314,A car is traveling at a constant speed of 20 miles per hour. How many hours will it take the car to travel 240 miles?,good,Multiplication and division
 1320,"If the price of a shirt is $25, what is the cost of the shirt after a 10% discount?",bad,Multiplication and division
-1321,"If there are 3 apples and 4 oranges in a basket, how many apples are there in the basket?",good,Addition and subtraction
-1327,"If you have $2 in coins, how much money do you have?",bad,Money
+1321,"If there are 3 apples and 4 oranges in a basket, how many apples are there in the basket?",good,Multiplication and division
+1327,"If you have $2 in coins, how much money do you have?",bad,Multiplication and division
 1331,"The price of a book is $2.00, and the tax rate is 6%. What is the total cost of the book?",good,Multiplication and division
-1338,"If a person has $200 in his or her wallet, how much money is left if he or she spends $10?",bad,Addition and subtraction
-1344,What are the dimensions of an 8x10 inch photo with 1 inch borders on all sides?,bad,Addition and subtraction
-1345,What are the dimensions of an 8x10 inch photo with 2 inch borders,bad,Modelling
-1348,A man has $10 and he spends $2. How much money does he have left?,good,Addition and subtraction
-1351,"If you have a jar with 3 apples, 4 oranges, and 5 bananas in it, how many fruit do you have in total?",good,Fractions
+1338,"If a person has $200 in his or her wallet, how much money is left if he or she spends $10?",bad,Multiplication and division
+1344,What are the dimensions of an 8x10 inch photo with 1 inch borders on all sides?,bad,Multiplication and division
+1345,What are the dimensions of an 8x10 inch photo with 2 inch borders,bad,Multiplication and division
+1348,A man has $10 and he spends $2. How much money does he have left?,good,Multiplication and division
+1351,"If you have a jar with 3 apples, 4 oranges, and 5 bananas in it, how many fruit do you have in total?",good,Multiplication and division
 1354,"If there are 12 eggs in a carton, how many eggs are in 2 cartons?",bad,Multiplication and division
-1355,"If you have $1.50 and spend 50 cents, what is the amount left?",agood,Addition and subtraction
-1373,"If you have 5 pencils and I give you 2 more, how many pencils will we have altogether?",good,Addition and subtraction
-1376,There are 4 boys and 7 girls in a room. What fraction of the people in the room are girls?,bad,Addition and subtraction
-1378,"If there are 12 people in a room and 6 of them are girls, what fraction of the people in the room are girls?",good,Addition and subtraction
-1386,"If you have a total of $6.00 and spend $1.00, what is the percent of change?",good,Addition and subtraction
-1392,If you have a total of $6.00 and spend $1.,bad,Addition and subtraction
-1393,"If the circumference of a circle is 16 centimeters, what is the radius?",bad,Multiplication and division
-1395,"If you buy a shirt for $14 and a pair of pants for $12, what is the total cost of your purchase?",good,Addition and subtraction
-1400,"If I have three apples and two oranges, how many pieces of fruit do I have altogether?",good,Addition and subtraction
+1355,"If you have $1.50 and spend 50 cents, what is the amount left?",agood,Multiplication and division
+1373,"If you have 5 pencils and I give you 2 more, how many pencils will we have altogether?",good,Multiplication and division
+1376,There are 4 boys and 7 girls in a room. What fraction of the people in the room are girls?,bad,Multiplication and division
+1378,"If there are 12 people in a room and 6 of them are girls, what fraction of the people in the room are girls?",good,Multiplication and division
+1386,"If you have a total of $6.00 and spend $1.00, what is the percent of change?",good,Multiplication and division
+1392,If you have a total of $6.00 and spend $1.,bad,Multiplication and division
+1393,"If the circumference of a circle is 16 centimeters, what is the radius?",bad,Addition and subtraction
+1395,"If you buy a shirt for $14 and a pair of pants for $12, what is the total cost of your purchase?",good,Multiplication and division
+1400,"If I have three apples and two oranges, how many pieces of fruit do I have altogether?",good,Multiplication and division
 1402,"A person's height is 5'2"". How tall will they be when they grow to be 6'3""?",bad,Multiplication and division
-1403,A car travels at a speed of 50 miles per hour for 2 hours. How far has the car traveled?,bad,Measurements
-1406,"If you have $1,000 in your bank account and you withdraw $500, how much money will you have in your account after the withdrawal?",bad,Addition and subtraction
-1407,"If you buy a candy bar for $1 and sell it for 75 cents, what is your profit percentage?",agood,Addition and subtraction
-1408,"A car that originally costs $25,000 is marked up 20%. How much does the car cost after the markup?",bad,Mixed operations
-1418,"If you have a jar of jelly beans that contains 10 red, 20 green, and 30 yellow, what is the probability of picking two yellows in a row?",good,Fractions
-1421,"If you have a jar of jelly beans and you take out 10% of them, how many jelly beans are left?",bad,Mixed operations
-1431,"If there are 12 eggs in a carton and 3 of them are rotten, what is the percentage of rotten eggs?",good,Mixed operations
-1432,"If you have a jar with 8 marbles and 3 of them are red, what is the percentage of red marbles?",good,Mixed operations
-1433,"If there are 5 apples on a tree and 3 of them are green, what is the percentage of green apples?",good,Mixed operations
-1434,"If there are 4 oranges on a tree and 1 of them is orange-red, what is the percentage of orange-red oranges?",good,Fractions
+1403,A car travels at a speed of 50 miles per hour for 2 hours. How far has the car traveled?,bad,Multiplication and division
+1406,"If you have $1,000 in your bank account and you withdraw $500, how much money will you have in your account after the withdrawal?",bad,Multiplication and division
+1407,"If you buy a candy bar for $1 and sell it for 75 cents, what is your profit percentage?",agood,Multiplication and division
+1408,"A car that originally costs $25,000 is marked up 20%. How much does the car cost after the markup?",bad,Multiplication and division
+1418,"If you have a jar of jelly beans that contains 10 red, 20 green, and 30 yellow, what is the probability of picking two yellows in a row?",good,Multiplication and division
+1421,"If you have a jar of jelly beans and you take out 10% of them, how many jelly beans are left?",bad,Multiplication and division
+1431,"If there are 12 eggs in a carton and 3 of them are rotten, what is the percentage of rotten eggs?",good,Multiplication and division
+1432,"If you have a jar with 8 marbles and 3 of them are red, what is the percentage of red marbles?",good,Multiplication and division
+1433,"If there are 5 apples on a tree and 3 of them are green, what is the percentage of green apples?",good,Multiplication and division
+1434,"If there are 4 oranges on a tree and 1 of them is orange-red, what is the percentage of orange-red oranges?",good,Multiplication and division
 1437,What is the product of 2x2x2x2x2x2x2x2x2x2=,bad,Multiplication and division
-1438,"What number comes after 7 in this sequence: 1, 2, 3, 4, 5",bad,Mixed operations
-1439,"Which number comes before 6 in this sequence: 1, 2, 3",bad,Mixed operations
-1441,Which number comes after 8 in this,bad,Addition and subtraction
-1443,A rectangular rug has a length of 12 feet and a width of 8 feet. What is the area of the rug in square feet?,good,Fractions
+1438,"What number comes after 7 in this sequence: 1, 2, 3, 4, 5",bad,Multiplication and division
+1439,"Which number comes before 6 in this sequence: 1, 2, 3",bad,Multiplication and division
+1441,Which number comes after 8 in this,bad,Multiplication and division
+1443,A rectangular rug has a length of 12 feet and a width of 8 feet. What is the area of the rug in square feet?,good,Multiplication and division
 1445,The longest piece of rope is approximately 50% of the original length before the rope was cut.,bad,Fractions
-1446,The diameter is 6 inches.,bad,Geometry
-1447,The area of the rug is 144 square feet.,bad,Number
+1446,The diameter is 6 inches.,bad,Multiplication and division
+1447,The area of the rug is 144 square feet.,bad,Multiplication and division
 1452,What is the volume of a cube that has edge length 4 inches?,agood,Addition and subtraction
 1453,What are the dimensions of a rectangular prism that has height 10 inches and width 20 inches?,good,Multiplication and division
-1454,A personâ€™s height is 5 feet 8 inches tall and their weight is 140 pounds. What is their BMI?,good,Measurements
-1455,A personâ€™s height is 5 feet 8 inches tall and their weight is 140 pounds. How much does this person weigh in kilograms?,good,Addition and subtraction
-1456,A personâ€™s height is 5 feet,bad,Geometry
-1459,"If you have $5,000 in your savings account, how much interest will you earn if you deposit $500 each month?",bad,Addition and subtraction
+1454,A personâ€™s height is 5 feet 8 inches tall and their weight is 140 pounds. What is their BMI?,good,Multiplication and division
+1455,A personâ€™s height is 5 feet 8 inches tall and their weight is 140 pounds. How much does this person weigh in kilograms?,good,Multiplication and division
+1456,A personâ€™s height is 5 feet,bad,Multiplication and division
+1459,"If you have $5,000 in your savings account, how much interest will you earn if you deposit $500 each month?",bad,Multiplication and division
 1464,What is the cost of a shirt if it costs $6.00 and you have a 20% off coupon?,agood,Multiplication and division
-1470,A car is going at a rate of 20 miles per hour. How many minutes will it take for the car to go 60 miles?,bad,Fractions
-1475,"If there are 10 apples in a basket,",bad,Geometry
+1470,A car is going at a rate of 20 miles per hour. How many minutes will it take for the car to go 60 miles?,bad,Multiplication and division
+1475,"If there are 10 apples in a basket,",bad,Multiplication and division
 1502,"If a train leaves Chicago at 10:00 am and travels at an average speed of 60 miles per hour, how long will it take to reach Los Angeles?",good,Multiplication and division
-1510,"A man has a total of $2,000 in his bank account. He spends $1,000 and then deposits $500 into his account. How much money does he have left?",good,Addition and subtraction
-1514,"If you multiply 2 by 3, what is your answer?",good,Addition and subtraction
-1515,"If you divide 10 by 2, what is your answer?",good,Addition and subtraction
-1516,"If you subtract 5 from 10, what is your answer?",good,Addition and subtraction
-1517,"If you add 7 to 8, what is your answer?",bad,Addition and subtraction
+1510,"A man has a total of $2,000 in his bank account. He spends $1,000 and then deposits $500 into his account. How much money does he have left?",good,Multiplication and division
+1514,"If you multiply 2 by 3, what is your answer?",good,Multiplication and division
+1515,"If you divide 10 by 2, what is your answer?",good,Multiplication and division
+1516,"If you subtract 5 from 10, what is your answer?",good,Multiplication and division
+1517,"If you add 7 to 8, what is your answer?",bad,Multiplication and division
 1526,"If you have $10 in your wallet, and you spend $5 on a new shirt, what is the remaining amount in your wallet?",good,Multiplication and division
-1530,A rectangular garden is 40 feet long and 20 feet wide. What is the area of the garden?,bad,Measurements
+1530,A rectangular garden is 40 feet long and 20 feet wide. What is the area of the garden?,bad,Addition and subtraction
 1532,A car travels at a constant speed of 60 miles per hour for 2 hours. How much time has passed?,good,Multiplication and division
-1533,A man walks 5 miles in 1 hour and 15 minutes. What is his average speed?,good,Multiplication and division
+1533,A man walks 5 miles in 1 hour and 15 minutes. What is his average speed?,good,Addition and subtraction
 1534,A woman walks 3 miles in 45 minutes. What is her average speed?,bad,Multiplication and division
 1536,The circumference of a circle is 36 inches and its diameter is 12 inches. What are the area and circumference?,good,Addition and subtraction
-1540,"If I have five apples and I give away two of them, how many apples do I have left?",good,Addition and subtraction
-1541,"If I have three oranges and I give away one of them, how many oranges do I have left?",good,Addition and subtraction
-1543,"If you had three quarters and you gave away one quarter, how many quarters would you have left?",good,Addition and subtraction
-1546,"If you had six nickels and you gave away two nickels, how many nickels would you have left?",good,Addition and subtraction
+1540,"If I have five apples and I give away two of them, how many apples do I have left?",good,Multiplication and division
+1541,"If I have three oranges and I give away one of them, how many oranges do I have left?",good,Multiplication and division
+1543,"If you had three quarters and you gave away one quarter, how many quarters would you have left?",good,Multiplication and division
+1546,"If you had six nickels and you gave away two nickels, how many nickels would you have left?",good,Multiplication and division
 1554,"If you have a jar with five oranges in it, and you take three oranges out, how many oranges are left in the jar?",good,Multiplication and division
 1555,"If the cost of a shirt was $25.00, what is the cost of the shirt with a 20% discount?",bad,Multiplication and division
-1559,"If you had 10 apples and 4 oranges, how many fruits would you have?",good,Addition and subtraction
-1566,The population of the United States is about 300 million. What percentage of the worldâ€™s population does that represent?,good,Fractions
+1559,"If you had 10 apples and 4 oranges, how many fruits would you have?",good,Multiplication and division
+1566,The population of the United States is about 300 million. What percentage of the worldâ€™s population does that represent?,good,Multiplication and division
 1567,"The cost of a gallon of milk is $2.00. If you buy 3 gallons, what is the cost per gallon?",bad,Multiplication and division
-1568,A person can walk at a rate of 3 miles per hour. How many miles will they walk in an hour?,bad,Geometry
+1568,A person can walk at a rate of 3 miles per hour. How many miles will they walk in an hour?,bad,Multiplication and division
 1571,A person can walk at a rate of 3 miles per hour. How many seconds will it take them to walk 100 yards?,bad,Multiplication and division
-1585,"The cost of a loaf of bread is $2.00. If the price of a loaf of bread increases by 10% in one year, what will the cost be?",good,Fractions
-1586,"A car dealer offers to sell you a car for $10,000. You have $6,000 in cash and want to finance the rest. The dealer says that he will give you a loan for $4,000 at 8% interest with monthly payments of $200 per month for 48 months. What is the total amount you will pay for the car?",bad,Money
-1587,"The Owens family needs $97,500 at closing",bad,Addition and subtraction
+1585,"The cost of a loaf of bread is $2.00. If the price of a loaf of bread increases by 10% in one year, what will the cost be?",good,Multiplication and division
+1586,"A car dealer offers to sell you a car for $10,000. You have $6,000 in cash and want to finance the rest. The dealer says that he will give you a loan for $4,000 at 8% interest with monthly payments of $200 per month for 48 months. What is the total amount you will pay for the car?",bad,Multiplication and division
+1587,"The Owens family needs $97,500 at closing",bad,Multiplication and division
 1588,The cost of a loaf of bread will be $2.20,bad,Multiplication and division
-1589,"The total amount you will pay for the car is $11,600",bad,Addition and subtraction
+1589,"The total amount you will pay for the car is $11,600",bad,Multiplication and division
 1590,"The cost of a shirt is $25.00. If the sales tax is 7%, what is the total cost of the shirt?",bad,Multiplication and division
-1593,Find the perimeter of a rectangle with a length of 10 inches and width of 8 inches,bad,Probability
+1593,Find the perimeter of a rectangle with a length of 10 inches and width of 8 inches,bad,Multiplication and division
 1595,Find the circumference of a circle with a radius of 5 inches,bad,Multiplication and division
-1597,Find the perimeter of an equilateral triangle with sides that measure 6 inches,bad,Fractions
+1597,Find the perimeter of an equilateral triangle with sides that measure 6 inches,bad,Multiplication and division
 1598,Find the volume of a cube with edges that measure 4 inches,bad,Multiplication and division
-1599,"A woman has a $5 bill and a $10 bill. If she gives the $5 bill to her son, how much does she have left?",good,Addition and subtraction
-1600,"If it takes 3 hours to drive to Grandma's house and 4 hours to drive back, how long will it take if you are driving there and back?",good,Addition and subtraction
-1601,"A man has three coins in his pocket: one is worth 25 cents, one is worth 50 cents, and one is worth 75 cents. What is the total value of the coins?",bad,Measurements
+1599,"A woman has a $5 bill and a $10 bill. If she gives the $5 bill to her son, how much does she have left?",good,Multiplication and division
+1600,"If it takes 3 hours to drive to Grandma's house and 4 hours to drive back, how long will it take if you are driving there and back?",good,Multiplication and division
+1601,"A man has three coins in his pocket: one is worth 25 cents, one is worth 50 cents, and one is worth 75 cents. What is the total value of the coins?",bad,Multiplication and division
 1603,"If you have 12 eggs, how many dozen eggs do you have?",bad,Multiplication and division
-1608,A man is 3 times as old as his son. How old is the man?,bad,Multiplication and division
+1608,A man is 3 times as old as his son. How old is the man?,bad,Fractions
 1609,"A woman has a collection of 12 pairs of shoes. If she gives away 4 pairs, how many pairs will she have left?",good,Multiplication and division
-1610,A carpenter charges $7 per hour for labor and $8 per hour for materials. What is the total cost to build a deck that takes 10 hours to complete?,bad,Mixed operations
+1610,A carpenter charges $7 per hour for labor and $8 per hour for materials. What is the total cost to build a deck that takes 10 hours to complete?,bad,Multiplication and division
 1613,A person can run 3 miles in 35 minutes. How long does it take him to run 1 mile?,bad,Multiplication and division
-1614,"If you have 5 oranges and you give away 2 oranges, how many oranges will you have left?",good,Addition and subtraction
+1614,"If you have 5 oranges and you give away 2 oranges, how many oranges will you have left?",good,Multiplication and division
 1615,"If a person makes $30,000 per year and pays 15% in taxes, what is his net",bad,Multiplication and division
-1626,The sum of two numbers is 27. What is the smaller number?,bad,Addition and subtraction
-1638,"If you have a jar with 5 red marbles, 4 green marbles, and 3 blue marbles, what color are more than half of them?",good,Probability
-1644,"If a person has $4,000 in savings and earns $1,000 interest per year, how much money will they have in 5 years?",bad,Addition and subtraction
+1626,The sum of two numbers is 27. What is the smaller number?,bad,Mixed operations
+1638,"If you have a jar with 5 red marbles, 4 green marbles, and 3 blue marbles, what color are more than half of them?",good,Multiplication and division
+1644,"If a person has $4,000 in savings and earns $1,000 interest per year, how much money will they have in 5 years?",bad,Multiplication and division
 1655,What is the sum of 5 + 7 + 9 + 11 + 13?,bad,Multiplication and division
 1656,What is the difference between subtraction and addition?,agood,Addition and subtraction
-1657,"If you have a list of numbers and you want to find the median, what is the first thing you do?",agood,Measurements
+1657,"If you have a list of numbers and you want to find the median, what is the first thing you do?",agood,Multiplication and division
 1659,"If you are given two numbers, how can you find the sum of those two numbers?",good,Multiplication and division
 1661,"If you are given two fractions, how can you find their sum?",bad,Multiplication and division
-1662,What is the difference between a decimal and a fraction?,agood,Mixed operations
-1663,Which has more digits: 1/2 or 1/4?,good,Comparison
-1665,"If I have $1,000 in my bank account, how much money will I have after I withdraw $500 from my account?",bad,Addition and subtraction
+1662,What is the difference between a decimal and a fraction?,agood,Addition and subtraction
+1663,Which has more digits: 1/2 or 1/4?,good,Multiplication and division
+1665,"If I have $1,000 in my bank account, how much money will I have after I withdraw $500 from my account?",bad,Multiplication and division
