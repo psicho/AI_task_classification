@@ -28,6 +28,21 @@ def split_to_sentence(document) -> list:
     return sentences
 
 
+def one_digit_in_task(tokenized):
+
+    one_digit = 0
+    count_num = 0
+
+    for token_index in range(len(tokenized)):
+        if tokenized[token_index]['pos_'] == 'NUM':
+            count_num += 1
+
+    if count_num == 1:
+        one_digit = 1
+
+    return one_digit
+
+
 def get_data_from_lemma_statistics_json(*, validation=False, grouping=False):
     """ Load data for lemma statistics json files """
 
@@ -606,7 +621,7 @@ def classification_data_set(link):
     data = handing_input_dataset_from_google_docs(link)
 
     """ Load training models """
-    validate_model_file = ROOT_DIR + '/training_models/gbrt_validate_model.sav'
+    validate_model_file = ROOT_DIR + '/training_models/gbrt_validation_model.sav'
     validate_model = pickle.load(open(validate_model_file, 'rb'))
 
     grouping_model_file = ROOT_DIR + '/training_models/gbrt_grouping_model.sav'
@@ -629,6 +644,9 @@ def classification_data_set(link):
                 in_bad_list = text_in_bad_list(load_question)
                 tokenized = tokenize(load_question)
                 load_data_dict = create_data(tokenized, load_question)
+
+                # calculate parameters
+                one_digit = one_digit_in_task(tokenized)
 
                 ################################################
                 # calculate selected group from lemma statistics
@@ -672,6 +690,7 @@ def classification_data_set(link):
                     load_data_dict['question_not_end'],  # Calculate exist question not in end
                     group_calculate_validation,  # Calculate selected group from lemma statistics
                     in_bad_list,  # bad list entry calculation
+                    one_digit,  # True if one digit exist in task
                 ]
                 map_token_list_grouping = [
                     load_data_dict['ADJ'],
